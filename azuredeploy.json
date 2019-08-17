@@ -136,11 +136,7 @@
                             },
                             "virtualNetworkProfile": null,
                             "scriptActions": [],
-                            "dataDisksGroups": [
-                                {
-                                  "disksPerNode": 1
-                                }
-                              ]
+                            "dataDisksGroups": null
                         },
                         {
                             "autoscale": null,
@@ -157,7 +153,11 @@
                             },
                             "virtualNetworkProfile": null,
                             "scriptActions": [],
-                            "dataDisksGroups": null
+                            "dataDisksGroups": [
+                                {
+                                  "disksPerNode": 1
+                                }
+                              ]
                         },
                         {
                             "autoscale": null,
