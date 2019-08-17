@@ -76,8 +76,8 @@
             "type": "Microsoft.HDInsight/clusters",
             "location": "[parameters('location')]",
             "dependsOn": [
-                "Microsoft.Storage/storageAccounts/aghbase56"
-            ],
+            "[concat('Microsoft.Storage/storageAccounts/',variables('defaultStorageAccount').name)]"
+             ],
             "properties": {
                 "clusterVersion": "[parameters('clusterVersion')]",
                 "osType": "Linux",
