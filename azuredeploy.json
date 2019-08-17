@@ -34,7 +34,7 @@
             "metadata": {
                 "description": "HDInsight cluster version."
             }
-        },
+        }, 
         "clusterWorkerNodeCount": {
             "type": "int",
             "defaultValue": 4,
