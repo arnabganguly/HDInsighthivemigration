@@ -185,5 +185,5 @@
        "defaultStorageAccount":{  
           "value":"[variables('defaultStorageAccount')]",
           "type":"string"
-       },
+       }
 }
