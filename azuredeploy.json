@@ -73,12 +73,12 @@
         {
       "type": "Microsoft.Storage/storageAccounts",
       "name": "[variables('defaultStorageAccount').name]",
-      "location": "[parameters('location')]",
-      "apiVersion": "2016-01-01",
+      "location": "[resourceGroup().location]",
+      "apiVersion": "2019-04-01",
       "sku": {
         "name": "[variables('defaultStorageAccount').type]"
       },
-      "kind": "Storage",
+      "kind": "StorageV2",
       "properties": {}
     },
         
@@ -87,7 +87,7 @@
             "apiVersion": "2015-03-01-preview",
             "name": "[parameters('clusterName')]",
             "type": "Microsoft.HDInsight/clusters",
-            "location": "[parameters('location')]",
+            "location": "[resourceGroup().location]",
             "dependsOn": [
             "[concat('Microsoft.Storage/storageAccounts/',variables('defaultStorageAccount').name)]"
              ],
