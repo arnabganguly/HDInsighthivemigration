@@ -87,10 +87,10 @@
       "dependsOn": [
         "[concat('Microsoft.Storage/storageAccounts/',variables('defaultStorageAccount').name)]"
              ],
+            "tags": {},
             "properties": {
                 "clusterVersion": "[parameters('clusterVersion')]",
                 "osType": "Linux",
-                "tier": "standard",
                 "clusterDefinition": {
                     "kind": "[parameters('clusterKind')]",
                     "componentVersion": {
