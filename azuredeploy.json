@@ -80,12 +80,12 @@
       "properties": {}
         },
         {
-            "apiVersion": "2015-03-01-preview",
-            "name": "[parameters('clusterName')]",
-            "type": "Microsoft.HDInsight/clusters",
-            "location": "[resourceGroup().location]",
-            "dependsOn": [
-            "[concat('Microsoft.Storage/storageAccounts/',variables('defaultStorageAccount').name)]"
+      "name": "[parameters('clusterName')]",
+      "type": "Microsoft.HDInsight/clusters",
+      "location": "[parameters('location')]",
+      "apiVersion": "2015-03-01-preview",
+      "dependsOn": [
+        "[concat('Microsoft.Storage/storageAccounts/',variables('defaultStorageAccount').name)]"
              ],
             "properties": {
                 "clusterVersion": "[parameters('clusterVersion')]",
