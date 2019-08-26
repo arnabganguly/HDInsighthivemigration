@@ -111,7 +111,7 @@
                 "storageProfile": {
                     "storageaccounts": [
                       {
-                        "name": "[replace(replace(reference(resourceId('Microsoft.Storage/storageAccounts', variables('defaultStorageAccount').name), '2016-01-01').primaryEndpoints.blob,'https://',''),'/','')]",
+                        "name": "[concat(variables('defaultStorageAccount'), 'blob.core.windows.net')]",
                         "isDefault": true,
                         "container": "[parameters('clusterName')]",
                         "key": "[listKeys(resourceId('Microsoft.Storage/storageAccounts', variables('defaultStorageAccount').name), '2016-01-01').keys[0].value]"
