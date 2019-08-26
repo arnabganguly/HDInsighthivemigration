@@ -1,4 +1,4 @@
-# HDisightHbaseYCSB
+# HDisightHbaseYCSB(WIP)
 Set up and run YCSB tests on HDInsight HBase 
 
 ## Create HDInsight HBase cluster 
@@ -10,6 +10,6 @@ Set up and run YCSB tests on HDInsight HBase
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODUxODY3MTYsLTIzMzAxMTg2LC0xMz
-g4Mjg1MTQzXX0=
+eyJoaXN0b3J5IjpbMTkxMjIxNzA1LC0xMDg1MTg2NzE2LC0yMz
+MwMTE4NiwtMTM4ODI4NTE0M119
 -->
