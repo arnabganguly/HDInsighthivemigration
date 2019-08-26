@@ -3,31 +3,19 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "clusterName": {
-            "value": "aghbase34"
+          "value": "GEN-UNIQUE-8"
         },
         "clusterLoginUserName": {
-            "value": "admin"
+            "value": "GEN-UNIQUE"
         },
         "clusterLoginPassword": {
-            "value": null
-        },
-        "location": {
-            "value": "eastus2"
-        },
-        "clusterWorkerNodeCount": {
-            "value": 4
-        },
-        "clusterKind": {
-            "value": "HBASE"
-        },
-        "clusterVersion": {
-            "value": "4.0"
+          "value": "GEN-PASSWORD"
         },
         "sshUserName": {
-            "value": "sshuser"
+            "value": "GEN-UNIQUE"
         },
         "sshPassword": {
-            "value": null
+          "value": "GEN-PASSWORD"
         }
     }
 }
