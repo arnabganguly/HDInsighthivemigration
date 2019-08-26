@@ -68,10 +68,10 @@
   },
     "resources": [
         {  
-          "type":"Microsoft.Storage/storageAccounts",
-          "apiVersion":"2019-04-01",
-          "name":"[variables('defaultStorageAccount')]",
-          "location":"[resourceGroup().location]",
+            "type": "Microsoft.Storage/storageAccounts",
+            "name": "[variables('defaultStorageAccount').name]",
+            "location": "[parameters('location')]",
+            "apiVersion": "2016-01-01",
           "sku":{  
              "name":"Premium_LRS",
              "tier":"Premium"
@@ -80,27 +80,24 @@
       "properties": {}
         },
         {
-      "name": "[parameters('clusterName')]",
-      "type": "Microsoft.HDInsight/clusters",
-      "location": "[parameters('location')]",
-      "apiVersion": "2015-03-01-preview",
-      "dependsOn": [
-        "[concat('Microsoft.Storage/storageAccounts/',variables('defaultStorageAccount').name)]"
-             ],
+            "name": "[parameters('clusterName')]",
+            "type": "Microsoft.HDInsight/clusters",
+            "location": "[parameters('location')]",
+            "apiVersion": "2015-03-01-preview",
+            "dependsOn": [
+              "[concat('Microsoft.Storage/storageAccounts/',variables('defaultStorageAccount').name)]"
+            ],
             "tags": {},
             "properties": {
-                "clusterVersion": "[parameters('clusterVersion')]",
-                "osType": "Linux",
-                "clusterDefinition": {
-                    "kind": "[parameters('clusterKind')]",
-                    "componentVersion": {
-                        "HBase": "2.0"
-                    },
-                    "configurations": {
-                        "gateway": {
-                            "restAuthCredential.isEnabled": true,
-                            "restAuthCredential.username": "[parameters('clusterLoginUserName')]",
-                            "restAuthCredential.password": "[parameters('clusterLoginPassword')]"
+              "clusterVersion": "4.0",
+              "osType": "Linux",
+              "clusterDefinition": {
+                "kind": "hbase",
+                "configurations": {
+                  "gateway": {
+                    "restAuthCredential.isEnabled": true,
+                    "restAuthCredential.username": "[parameters('clusterLoginUserName')]",
+                    "restAuthCredential.password": "[parameters('clusterLoginPassword')]"
                         }
                     }
                 },
@@ -148,12 +145,7 @@
                                 }
                             },
                             "virtualNetworkProfile": null,
-                            "scriptActions": [],
-                            "dataDisksGroups": [
-                                {
-                                  "disksPerNode": 1
-                                }
-                              ]
+                            "scriptActions": []
                         },
                         {
                             "autoscale": null,
