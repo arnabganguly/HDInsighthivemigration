@@ -64,9 +64,7 @@
         }
     },
     "variables": {
-    "defaultStorageAccount": {
-      "name": "[concat('blob', uniqueString(resourceGroup().id))]",
-      }
+    "defaultStorageAccount":"[concat('blob', uniqueString(resourceGroup().id))]",
   },
     "resources": [
         {  
