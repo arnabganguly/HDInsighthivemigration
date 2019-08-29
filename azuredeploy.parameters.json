@@ -7,12 +7,14 @@
         },
         "clusterLoginUserName": {
             "value": "GEN-UNIQUE"
+            "defaultValue": "admin"
         },
         "clusterLoginPassword": {
           "value": "GEN-PASSWORD"
         },
         "sshUserName": {
             "value": "GEN-UNIQUE"
+            "defaultValue": "sshuser"
         },
         "sshPassword": {
           "value": "GEN-PASSWORD"
