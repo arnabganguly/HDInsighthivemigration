@@ -45,7 +45,7 @@
   "variables": {
     "defaultStorageAccount": {
       "name": "[uniqueString(resourceGroup().id)]",
-      "type": "Standard_LRS"
+      "type": "Premium_LRS"
     }
   },
   "resources": [
@@ -113,6 +113,10 @@
               "hardwareProfile": {
                 "vmSize": "Large"
               },
+              "dataDisksGroups": [
+           {
+              "disksPerNode": "1"
+            }],
               "osProfile": {
                 "linuxOperatingSystemProfile": {
                   "username": "[parameters('sshUserName')]",
