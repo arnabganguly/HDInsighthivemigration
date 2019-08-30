@@ -4,7 +4,7 @@
 
   
 
-<a  href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-quickstart-templates%2Fmaster%2F101-hdinsight-hbase-linux%2Fazuredeploy.json"  target="_blank">
+<a  href="https://portal.azure.com/#create/Microsoft.Template/uri/https://[https://raw.githubusercontent.com/arnabganguly/HDisightHbaseYCSB/master/azuredeploy.json](https://raw.githubusercontent.com/arnabganguly/HDisightHbaseYCSB/master/azuredeploy.json)"  target="_blank">
 
 <img  src="http://azuredeploy.net/deploybutton.png"/>
 
@@ -23,6 +23,7 @@ This template allows you to create a Linux-based HBase cluster in HDInsight. For
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE4NjcwMTEyLC0xODY2NTU2MDIwLC0xMD
-g1MTg2NzE2LC0yMzMwMTE4NiwtMTM4ODI4NTE0M119
+eyJoaXN0b3J5IjpbLTE5OTM2MTIwMTksOTE4NjcwMTEyLC0xOD
+Y2NTU2MDIwLC0xMDg1MTg2NzE2LC0yMzMwMTE4NiwtMTM4ODI4
+NTE0M119
 -->
