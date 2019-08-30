@@ -161,12 +161,6 @@
         }
       }
     }
-  ],
-  "outputs": {
-    "cluster": {
-      "type": "object",
-      "value": "[reference(resourceId('Microsoft.HDInsight/clusters',parameters('clusterName')))]"
-    }
-  }
+  ]
 }
 }
