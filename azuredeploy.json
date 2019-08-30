@@ -128,7 +128,7 @@
             },
             {
               "name": "workernode",
-              "targetInstanceCount": 2,
+              "targetInstanceCount": 3,
               "hardwareProfile": {
                 "vmSize": "Large"
               },
