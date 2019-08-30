@@ -54,7 +54,7 @@
       "location": "[parameters('location')]",
       "apiVersion": "2019-04-01",
       "sku": {
-        "name":"Premium_LRS"
+        "name":"Premium_LRS",
         "tier":"Premium"
       },
       "kind": "StorageV2",
