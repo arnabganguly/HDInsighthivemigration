@@ -43,7 +43,7 @@
   },
   "variables": {
     "defaultStorageAccount": {
-      "name": "[concat('clusterName', uniqueString(resourceGroup().id))]"
+      "name": "[uniqueString(resourceGroup().id)]"
     }
   },
   "resources": [
