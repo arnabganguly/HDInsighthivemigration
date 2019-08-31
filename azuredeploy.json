@@ -93,6 +93,9 @@
         "osType": "Linux",
         "clusterDefinition": {
           "kind": "hbase",
+          "componentVersion": {
+                        "HBase": "2.0"
+                    },
           "configurations": {
             "gateway": {
               "restAuthCredential.isEnabled": true,
@@ -117,7 +120,7 @@
               "name": "headnode",
               "targetInstanceCount": 2,
               "hardwareProfile": {
-                "vmSize": "Large"
+                "vmSize": "Standard_D12_V2"
               },
               "osProfile": {
                 "linuxOperatingSystemProfile": {
@@ -130,7 +133,7 @@
               "name": "workernode",
               "targetInstanceCount": 3,
               "hardwareProfile": {
-                "vmSize": "Large"
+                "vmSize": "Standard_DS13_V2"
               },
               "dataDisksGroups": [
                 {
