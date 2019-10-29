@@ -30,9 +30,12 @@ For an exhaustive overview of advancements in Hive 3.0 , listen to this [present
 
 ## Lab
 
+This la , in this lab we would first create am HDInsight Hadoop 3.6 cluster , create some data in it and run a few teats 
+
+
 To start the lab click here. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzA3NzU0NjksOTUxMDU4MTE3LC0xMD
+eyJoaXN0b3J5IjpbLTEzODIyMDE5MTMsOTUxMDU4MTE3LC0xMD
 QzNzI0MTE4LC0xMjU3MjE1Mjk5LDE2NDU3NTc0NiwxMDEwNTY1
 MDc0LC0xODEyOTU3OTU3LC03NzM1NDU1NDQsMTQwNDc1Nzc2OS
 wtMjA5NDkyMTgzMCwtNzg5Mzk4NTQsLTE5OTM2MTIwMTksOTE4
