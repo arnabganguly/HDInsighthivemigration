@@ -1,6 +1,8 @@
+
+
 ## Create a Storage account 
 
-1. From the 
+1
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgyNjQ5ODY3XX0=
+eyJoaXN0b3J5IjpbLTE2ODk0ODk3NjZdfQ==
 -->
