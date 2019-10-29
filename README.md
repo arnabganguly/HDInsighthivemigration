@@ -1,6 +1,6 @@
 #  Upgrade from HDInsight 3.6 Hive(2.1.0) cluster to HDInsight 4.0 Hive(3.1.0) cluster 
 
-This lab explains the steps needed to upgrade from an HDInsight Hadoop(Hive) 3.6 cluster to HDInsight Hadoop(Hive) 4.0 cluster.
+This lab explains the steps needed to upgrade from an [HDInsight Hadoop(Hive) 3.6](https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-release-notes-archive) cluster to an [HDInsight Hadoop(Hive) 4.0](https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-version-release) cluster.
 
 HDInsight 4.0 brings upgraded versions for all Apache components , but for this lab we specifically focus on the Hive versions. 
 
@@ -25,12 +25,12 @@ Some key areas that Hive 3.x differs from earlier versions are.
  - Spark and Hive use independent catalogues for Spark SQL or Hive
    tables in same or independent clusters
 
- 
+ For an exhaustive overview of 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTcyMTUyOTksMTY0NTc1NzQ2LDEwMT
-A1NjUwNzQsLTE4MTI5NTc5NTcsLTc3MzU0NTU0NCwxNDA0NzU3
-NzY5LC0yMDk0OTIxODMwLC03ODkzOTg1NCwtMTk5MzYxMjAxOS
-w5MTg2NzAxMTIsLTE4NjY1NTYwMjAsLTEwODUxODY3MTYsLTIz
-MzAxMTg2LC0xMzg4Mjg1MTQzXX0=
+eyJoaXN0b3J5IjpbOTc1MTQzNjEwLC0xMjU3MjE1Mjk5LDE2ND
+U3NTc0NiwxMDEwNTY1MDc0LC0xODEyOTU3OTU3LC03NzM1NDU1
+NDQsMTQwNDc1Nzc2OSwtMjA5NDkyMTgzMCwtNzg5Mzk4NTQsLT
+E5OTM2MTIwMTksOTE4NjcwMTEyLC0xODY2NTU2MDIwLC0xMDg1
+MTg2NzE2LC0yMzMwMTE4NiwtMTM4ODI4NTE0M119
 -->
