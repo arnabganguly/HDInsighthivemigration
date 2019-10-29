@@ -10,14 +10,24 @@ HDInsight 4.0 brings upgraded versions for all Apache components , but for this 
 
 Some key areas that Hive 3.x differs from earlier versions are.
 
- **Client** : Hive CLI support is deprecated in Hive 3.x and only the thin client Beeline is supported 
-**Transaction Processing**: ACID tables are the default table type in Hive 3.x
- **Catalogs** : Spark and Hive use independent catalogues for Spark SQL or Hive tables in same or different clusters. 
+ **Client** 
+
+ - Hive CLI support is deprecated in Hive 3.x and only the thin client
+   Beeline is supported
+
+**Transaction Processing** 
+
+ - ACID tables are the default table type in Hive 3.x
+ - Automatic query cache
+ - Materilized views 
+
+ **Catalogs** : Spark and Hive use independent catalogues for Spark SQL or Hive tables in same or independent clusters
+ 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3Mzc0NjU1MiwxMDEwNTY1MDc0LC0xOD
-EyOTU3OTU3LC03NzM1NDU1NDQsMTQwNDc1Nzc2OSwtMjA5NDky
-MTgzMCwtNzg5Mzk4NTQsLTE5OTM2MTIwMTksOTE4NjcwMTEyLC
-0xODY2NTU2MDIwLC0xMDg1MTg2NzE2LC0yMzMwMTE4NiwtMTM4
-ODI4NTE0M119
+eyJoaXN0b3J5IjpbLTEyODcwMTQ0NjQsMTAxMDU2NTA3NCwtMT
+gxMjk1Nzk1NywtNzczNTQ1NTQ0LDE0MDQ3NTc3NjksLTIwOTQ5
+MjE4MzAsLTc4OTM5ODU0LC0xOTkzNjEyMDE5LDkxODY3MDExMi
+wtMTg2NjU1NjAyMCwtMTA4NTE4NjcxNiwtMjMzMDExODYsLTEz
+ODgyODUxNDNdfQ==
 -->
