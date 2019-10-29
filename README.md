@@ -12,10 +12,10 @@ Some key areas that Hive 3.x differs from earlier versions are.
 
  **Client** : Hive CLI support is deprecated in Hive 3.x and only the thin client Beeline is supported 
 **Transaction Processing**: ACID tables are the default table type in Hive 3.x
- **Metastore** : 
+ **Catalogs** : Spark and Hive use independent catalogues for Spark SQL or Hive tables in same or different clusters. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MTE3MTQ4MywxMDEwNTY1MDc0LC0xOD
+eyJoaXN0b3J5IjpbMjA3Mzc0NjU1MiwxMDEwNTY1MDc0LC0xOD
 EyOTU3OTU3LC03NzM1NDU1NDQsMTQwNDc1Nzc2OSwtMjA5NDky
 MTgzMCwtNzg5Mzk4NTQsLTE5OTM2MTIwMTksOTE4NjcwMTEyLC
 0xODY2NTU2MDIwLC0xMDg1MTg2NzE2LC0yMzMwMTE4NiwtMTM4
