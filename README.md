@@ -30,12 +30,17 @@ For an exhaustive overview of advancements in Hive 3.0 , listen to this [present
 
 ## Lab
 
-This la , in this lab we would first create am HDInsight Hadoop 3.6 cluster , create some data in it and run a few teats 
+This lab is a similation of a real migration  and will consist of the following steps.  
+
+1. Create an HDInsight Hadoop 3.6 cluster.
+2. Create test data in the HDInsight 3.6 cluster. We use TPCDS data here. 
+3. Run a TPCDS tests to see if everything is working as intended.
+4. Copy the 3.6 Metastore and upgrade t 
 
 
 To start the lab click here. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODIyMDE5MTMsOTUxMDU4MTE3LC0xMD
+eyJoaXN0b3J5IjpbLTE4NTg1NzMwODIsOTUxMDU4MTE3LC0xMD
 QzNzI0MTE4LC0xMjU3MjE1Mjk5LDE2NDU3NTc0NiwxMDEwNTY1
 MDc0LC0xODEyOTU3OTU3LC03NzM1NDU1NDQsMTQwNDc1Nzc2OS
 wtMjA5NDkyMTgzMCwtNzg5Mzk4NTQsLTE5OTM2MTIwMTksOTE4
