@@ -8,14 +8,15 @@ HDInsight 4.0 brings upgraded versions for all Apache components , but for this 
 |--|--|--|
 |Hive| 3.1.0 |2.1.0 ; 1.2.1| 
 
-An upgrade in Hive 
+Some key areas that Hive 3.x differs from earlier versions are.
 
-
+ - Hive CLI support is deprecated and only Beeline is supported 
+ - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMDU2NTA3NCwtMTgxMjk1Nzk1NywtNz
-czNTQ1NTQ0LDE0MDQ3NTc3NjksLTIwOTQ5MjE4MzAsLTc4OTM5
-ODU0LC0xOTkzNjEyMDE5LDkxODY3MDExMiwtMTg2NjU1NjAyMC
-wtMTA4NTE4NjcxNiwtMjMzMDExODYsLTEzODgyODUxNDNdfQ==
-
+eyJoaXN0b3J5IjpbMTUyMTE5MDA5OCwxMDEwNTY1MDc0LC0xOD
+EyOTU3OTU3LC03NzM1NDU1NDQsMTQwNDc1Nzc2OSwtMjA5NDky
+MTgzMCwtNzg5Mzk4NTQsLTE5OTM2MTIwMTksOTE4NjcwMTEyLC
+0xODY2NTU2MDIwLC0xMDg1MTg2NzE2LC0yMzMwMTE4NiwtMTM4
+ODI4NTE0M119
 -->
