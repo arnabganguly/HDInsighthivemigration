@@ -30,7 +30,7 @@ For an exhaustive overview of advancements in Hive 3.0 , listen to this [present
 
 ## Lab
 
-This lab is a simulation of a real migration and will consist of the following steps.  
+This lab is a simulation of a real migration and will consist of the following steps in sequence.  
 
 1. Create an HDInsight Hadoop 3.6 cluster.
 2. Create test data in the HDInsight 3.6 cluster. We use TPCDS data here. 
@@ -43,7 +43,7 @@ This lab is a simulation of a real migration and will consist of the following s
 
 To start the lab click here. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMjc5NTI5NCw5NTEwNTgxMTcsLTEwND
+eyJoaXN0b3J5IjpbMTMyMjA3MjY3NCw5NTEwNTgxMTcsLTEwND
 M3MjQxMTgsLTEyNTcyMTUyOTksMTY0NTc1NzQ2LDEwMTA1NjUw
 NzQsLTE4MTI5NTc5NTcsLTc3MzU0NTU0NCwxNDA0NzU3NzY5LC
 0yMDk0OTIxODMwLC03ODkzOTg1NCwtMTk5MzYxMjAxOSw5MTg2
