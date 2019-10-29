@@ -25,10 +25,10 @@ Some key areas that Hive 3.x differs from earlier versions are.
  - Spark and Hive use independent catalogues for Spark SQL or Hive
    tables in same or independent clusters
 
- For an exhaustive overview of advancements in Hive 3.0 , listen to the great presentation 
+ For an exhaustive overview of advancements in Hive 3.0 , listen to this [presentation](https://www.youtube.com/watch?v=exdDSckutm8) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjM5ODc2NTcsLTEyNTcyMTUyOTksMT
+eyJoaXN0b3J5IjpbLTE2ODQ4NjYzMzAsLTEyNTcyMTUyOTksMT
 Y0NTc1NzQ2LDEwMTA1NjUwNzQsLTE4MTI5NTc5NTcsLTc3MzU0
 NTU0NCwxNDA0NzU3NzY5LC0yMDk0OTIxODMwLC03ODkzOTg1NC
 wtMTk5MzYxMjAxOSw5MTg2NzAxMTIsLTE4NjY1NTYwMjAsLTEw
