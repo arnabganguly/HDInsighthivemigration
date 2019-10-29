@@ -28,11 +28,14 @@ Some key areas that Hive 3.x differs from earlier versions are.
 
 For an exhaustive overview of advancements in Hive 3.0 , listen to this [presentation](https://www.youtube.com/watch?v=exdDSckutm8) 
 
+## Lab
+
+To start the lab click here. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUxMDU4MTE3LC0xMDQzNzI0MTE4LC0xMj
-U3MjE1Mjk5LDE2NDU3NTc0NiwxMDEwNTY1MDc0LC0xODEyOTU3
-OTU3LC03NzM1NDU1NDQsMTQwNDc1Nzc2OSwtMjA5NDkyMTgzMC
-wtNzg5Mzk4NTQsLTE5OTM2MTIwMTksOTE4NjcwMTEyLC0xODY2
-NTU2MDIwLC0xMDg1MTg2NzE2LC0yMzMwMTE4NiwtMTM4ODI4NT
-E0M119
+eyJoaXN0b3J5IjpbLTExMzA3NzU0NjksOTUxMDU4MTE3LC0xMD
+QzNzI0MTE4LC0xMjU3MjE1Mjk5LDE2NDU3NTc0NiwxMDEwNTY1
+MDc0LC0xODEyOTU3OTU3LC03NzM1NDU1NDQsMTQwNDc1Nzc2OS
+wtMjA5NDkyMTgzMCwtNzg5Mzk4NTQsLTE5OTM2MTIwMTksOTE4
+NjcwMTEyLC0xODY2NTU2MDIwLC0xMDg1MTg2NzE2LC0yMzMwMT
+E4NiwtMTM4ODI4NTE0M119
 -->
