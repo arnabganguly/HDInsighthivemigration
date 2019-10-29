@@ -7,15 +7,16 @@ HDInsight 4.0 brings upgraded versions for all Apache components , but for this 
 |Component|HDInsight 3.6  |HDinsight 4.0
 |Hive|3.1.0| 2.1.0
 
-|Component  | HDInsight 4.0 |  HDInsight 3.6 |
+|Component| HDInsight 4.0 | HDInsight 3.6 |
 |--|--|--|
-|  |  |
+|Hive| 3.1.0 |2.1.0 ; 1.2.1
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA5ODcwMjE3LC0xODEyOTU3OTU3LC03Nz
-M1NDU1NDQsMTQwNDc1Nzc2OSwtMjA5NDkyMTgzMCwtNzg5Mzk4
-NTQsLTE5OTM2MTIwMTksOTE4NjcwMTEyLC0xODY2NTU2MDIwLC
-0xMDg1MTg2NzE2LC0yMzMwMTE4NiwtMTM4ODI4NTE0M119
+eyJoaXN0b3J5IjpbLTkyODU2MzAyOSwtMTgxMjk1Nzk1NywtNz
+czNTQ1NTQ0LDE0MDQ3NTc3NjksLTIwOTQ5MjE4MzAsLTc4OTM5
+ODU0LC0xOTkzNjEyMDE5LDkxODY3MDExMiwtMTg2NjU1NjAyMC
+wtMTA4NTE4NjcxNiwtMjMzMDExODYsLTEzODgyODUxNDNdfQ==
+
 -->
