@@ -1,13 +1,15 @@
 #  Upgrade from HDInsight 3.6 Hive(2.1.0) cluster to HDInsight 4.0 Hive(3.1.0) cluster 
 
-## Create a HDInsight 3.6 
+## Create an HDInsight 3.6 cluster
+
+ 
 
  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MzU0NTU0NCwxNDA0NzU3NzY5LC0yMD
-k0OTIxODMwLC03ODkzOTg1NCwtMTk5MzYxMjAxOSw5MTg2NzAx
-MTIsLTE4NjY1NTYwMjAsLTEwODUxODY3MTYsLTIzMzAxMTg2LC
-0xMzg4Mjg1MTQzXX0=
+eyJoaXN0b3J5IjpbLTIzMjc2NTk4MiwtNzczNTQ1NTQ0LDE0MD
+Q3NTc3NjksLTIwOTQ5MjE4MzAsLTc4OTM5ODU0LC0xOTkzNjEy
+MDE5LDkxODY3MDExMiwtMTg2NjU1NjAyMCwtMTA4NTE4NjcxNi
+wtMjMzMDExODYsLTEzODgyODUxNDNdfQ==
 -->
