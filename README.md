@@ -10,14 +10,14 @@ HDInsight 4.0 brings upgraded versions for all Apache components , but for this 
 
 Some key areas that Hive 3.x differs from earlier versions are.
 
- - Hive CLI support is deprecated in Hive 3.x and only the thin client Beeline is supported 
- - ACID tables are the default table type in Hive 3.x
- - 
+ **Client** : Hive CLI support is deprecated in Hive 3.x and only the thin client Beeline is supported 
+**Transaction Processing**: ACID tables are the default table type in Hive 3.x
+ **Metastore** : 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY3NDkxODQ4LDEwMTA1NjUwNzQsLTE4MT
-I5NTc5NTcsLTc3MzU0NTU0NCwxNDA0NzU3NzY5LC0yMDk0OTIx
-ODMwLC03ODkzOTg1NCwtMTk5MzYxMjAxOSw5MTg2NzAxMTIsLT
-E4NjY1NTYwMjAsLTEwODUxODY3MTYsLTIzMzAxMTg2LC0xMzg4
-Mjg1MTQzXX0=
+eyJoaXN0b3J5IjpbMjA5MTE3MTQ4MywxMDEwNTY1MDc0LC0xOD
+EyOTU3OTU3LC03NzM1NDU1NDQsMTQwNDc1Nzc2OSwtMjA5NDky
+MTgzMCwtNzg5Mzk4NTQsLTE5OTM2MTIwMTksOTE4NjcwMTEyLC
+0xODY2NTU2MDIwLC0xMDg1MTg2NzE2LC0yMzMwMTE4NiwtMTM4
+ODI4NTE0M119
 -->
