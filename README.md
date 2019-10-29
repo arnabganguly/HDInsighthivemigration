@@ -22,15 +22,17 @@ Some key areas that Hive 3.x differs from earlier versions are.
 
  **Catalogs** 
 
- - Spark and Hive use independent catalogues for Spark SQL or Hive
-   tables in same or independent clusters
+ - Spark and Hive use independent catalogues for Spark SQL or Hive tables in same or independent clusters
+ - The Hive Warehouse connector is used to integrate between Spark and Hive workloads. 
+   
 
 For an exhaustive overview of advancements in Hive 3.0 , listen to this [presentation](https://www.youtube.com/watch?v=exdDSckutm8) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDM3MjQxMTgsLTEyNTcyMTUyOTksMT
-Y0NTc1NzQ2LDEwMTA1NjUwNzQsLTE4MTI5NTc5NTcsLTc3MzU0
-NTU0NCwxNDA0NzU3NzY5LC0yMDk0OTIxODMwLC03ODkzOTg1NC
-wtMTk5MzYxMjAxOSw5MTg2NzAxMTIsLTE4NjY1NTYwMjAsLTEw
-ODUxODY3MTYsLTIzMzAxMTg2LC0xMzg4Mjg1MTQzXX0=
+eyJoaXN0b3J5IjpbMjEzNTE1MjAzNSwtMTA0MzcyNDExOCwtMT
+I1NzIxNTI5OSwxNjQ1NzU3NDYsMTAxMDU2NTA3NCwtMTgxMjk1
+Nzk1NywtNzczNTQ1NTQ0LDE0MDQ3NTc3NjksLTIwOTQ5MjE4Mz
+AsLTc4OTM5ODU0LC0xOTkzNjEyMDE5LDkxODY3MDExMiwtMTg2
+NjU1NjAyMCwtMTA4NTE4NjcxNiwtMjMzMDExODYsLTEzODgyOD
+UxNDNdfQ==
 -->
