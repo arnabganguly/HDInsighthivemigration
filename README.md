@@ -37,15 +37,16 @@ This lab is a simulation of a real migration and will consist of the following s
 3. Run a TPCDS tests to see if everything is working as intended.
 4. Copy the Hive 2.1 metastore and upgrade the metastore to 3.1.
 5. Delete the older HDInsight Hadoop 3.6 cluster.
-6.  Create a new HDInsight 4.0 cluster with the older 
+6.  Create a new HDInsight 4.0 cluster with the older storage account and upgraded 3.1 metastore.
+7. Run the same TPCDS tests to ensure everything is working as intended. 
 
 
 To start the lab click here. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE5MDkwMDUxLDk1MTA1ODExNywtMTA0Mz
-cyNDExOCwtMTI1NzIxNTI5OSwxNjQ1NzU3NDYsMTAxMDU2NTA3
-NCwtMTgxMjk1Nzk1NywtNzczNTQ1NTQ0LDE0MDQ3NTc3NjksLT
-IwOTQ5MjE4MzAsLTc4OTM5ODU0LC0xOTkzNjEyMDE5LDkxODY3
-MDExMiwtMTg2NjU1NjAyMCwtMTA4NTE4NjcxNiwtMjMzMDExOD
-YsLTEzODgyODUxNDNdfQ==
+eyJoaXN0b3J5IjpbMjAxMjc5NTI5NCw5NTEwNTgxMTcsLTEwND
+M3MjQxMTgsLTEyNTcyMTUyOTksMTY0NTc1NzQ2LDEwMTA1NjUw
+NzQsLTE4MTI5NTc5NTcsLTc3MzU0NTU0NCwxNDA0NzU3NzY5LC
+0yMDk0OTIxODMwLC03ODkzOTg1NCwtMTk5MzYxMjAxOSw5MTg2
+NzAxMTIsLTE4NjY1NTYwMjAsLTEwODUxODY3MTYsLTIzMzAxMT
+g2LC0xMzg4Mjg1MTQzXX0=
 -->
