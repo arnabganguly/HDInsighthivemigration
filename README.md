@@ -17,7 +17,7 @@ Some key areas that Hive 3.x differs from earlier versions are.
 
 **Transaction Processing** 
 
- - ACID tables are the default table type in Hive 3.x
+ - ACID tables are the default table type in Hive 3.x with performance as good as non Acid
  - Automatic query cache
 
  **Catalogs** 
@@ -28,9 +28,9 @@ Some key areas that Hive 3.x differs from earlier versions are.
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NTc1NzQ2LDEwMTA1NjUwNzQsLTE4MT
-I5NTc5NTcsLTc3MzU0NTU0NCwxNDA0NzU3NzY5LC0yMDk0OTIx
-ODMwLC03ODkzOTg1NCwtMTk5MzYxMjAxOSw5MTg2NzAxMTIsLT
-E4NjY1NTYwMjAsLTEwODUxODY3MTYsLTIzMzAxMTg2LC0xMzg4
-Mjg1MTQzXX0=
+eyJoaXN0b3J5IjpbLTEyNTcyMTUyOTksMTY0NTc1NzQ2LDEwMT
+A1NjUwNzQsLTE4MTI5NTc5NTcsLTc3MzU0NTU0NCwxNDA0NzU3
+NzY5LC0yMDk0OTIxODMwLC03ODkzOTg1NCwtMTk5MzYxMjAxOS
+w5MTg2NzAxMTIsLTE4NjY1NTYwMjAsLTEwODUxODY3MTYsLTIz
+MzAxMTg2LC0xMzg4Mjg1MTQzXX0=
 -->
