@@ -19,15 +19,18 @@ Some key areas that Hive 3.x differs from earlier versions are.
 
  - ACID tables are the default table type in Hive 3.x
  - Automatic query cache
- - Materilized views 
 
- **Catalogs** : Spark and Hive use independent catalogues for Spark SQL or Hive tables in same or independent clusters
+ **Catalogs** 
+
+ - Spark and Hive use independent catalogues for Spark SQL or Hive
+   tables in same or independent clusters
+
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODcwMTQ0NjQsMTAxMDU2NTA3NCwtMT
-gxMjk1Nzk1NywtNzczNTQ1NTQ0LDE0MDQ3NTc3NjksLTIwOTQ5
-MjE4MzAsLTc4OTM5ODU0LC0xOTkzNjEyMDE5LDkxODY3MDExMi
-wtMTg2NjU1NjAyMCwtMTA4NTE4NjcxNiwtMjMzMDExODYsLTEz
-ODgyODUxNDNdfQ==
+eyJoaXN0b3J5IjpbMTY0NTc1NzQ2LDEwMTA1NjUwNzQsLTE4MT
+I5NTc5NTcsLTc3MzU0NTU0NCwxNDA0NzU3NzY5LC0yMDk0OTIx
+ODMwLC03ODkzOTg1NCwtMTk5MzYxMjAxOSw5MTg2NzAxMTIsLT
+E4NjY1NTYwMjAsLTEwODUxODY3MTYsLTIzMzAxMTg2LC0xMzg4
+Mjg1MTQzXX0=
 -->
