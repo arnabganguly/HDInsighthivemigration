@@ -1,11 +1,12 @@
 
-## Create TPCDS test data on the HDInsight 3.6 Hadoop cluster
+## Create TPCDS test data on the HDInsight 3.6 Hadoop cluster with Beeline CLI
 
-1. Goal of this step is to help generate TPCDS data with hive and create your own HDInsight benchmarks for various engines
+Goal of this step is to help generate TPCDS data with hive as a close representation of production data. 
 
-1.  Hive
+1. Clone this repo
+|-- dds 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNTA3MTM2Miw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTM5NTc5ODg5NCw3MzA5OTgxMTZdfQ==
 -->
