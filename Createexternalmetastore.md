@@ -21,7 +21,9 @@
 
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p7.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p7.png)
 
-3. In the Database Conf
+ - In the Database Configuration page select the *Standard* Tier with the below settings
+    -DTU : 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NTgxOTY2NiwxMDQ1MTM5NzM1XX0=
+eyJoaXN0b3J5IjpbMTQxMzkzOTA0NCwxMDQ1MTM5NzM1XX0=
 -->
