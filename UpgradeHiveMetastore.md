@@ -15,12 +15,12 @@
 
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p26.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p26.png)
 
-4. 
+4. In the restore blade choose the current date and time to get the most recent copy o
  
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTU5OTU2ODYsLTE5ODQxNzU3NTMsMj
-A0MDI5NzYyMl19
+eyJoaXN0b3J5IjpbMTY0MTE1MzA2NSwtMTk4NDE3NTc1MywyMD
+QwMjk3NjIyXX0=
 -->
