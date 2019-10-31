@@ -41,11 +41,13 @@ To provision HDInsight LLAP with Azure Management Portal, perform the below step
 
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p18.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p18.png)
 
-6. Click Authenticate to enter the username and password for the Metastore
+6. Click Authenticate to enter the username and password for the Metastore. Enter the username and password that was set for the SQL Server in the last exercise. 
 
-![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p19.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p17.png) 
+![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p19.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p19.png)
+
+ 7. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODc3ODUxNTQsMzgwMDAyMTMxLDU2MT
+eyJoaXN0b3J5IjpbLTE1OTU3OTE1ODEsMzgwMDAyMTMxLDU2MT
 Y1NzQyMiw3Mjk3MzUxMTQsNzcyMTQ2MzI5XX0=
 -->
