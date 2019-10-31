@@ -4,7 +4,8 @@
 
 1. Create storage account and click create
 
-![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p1.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p1.png)
+![https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture32.png](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture32.png)
+
 
 2. Populate the  **Basics**  tab of Storage account with the below information.
 
@@ -17,7 +18,12 @@
 -   **Access Tier**:  _Hot_
 
 
+![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p1.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p1.png)
+
+3. 
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk4ODM4NDg1XX0=
+eyJoaXN0b3J5IjpbMTQ1OTQ2Mjg5MF19
 -->
