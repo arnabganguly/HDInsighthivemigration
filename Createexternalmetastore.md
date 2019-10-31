@@ -1,7 +1,9 @@
 
-## Create an external Metastore
+## Create an External Metastore for the HDInsight Hadoop 3.6 cluster
+
+1. On the Azure
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0ODgyNDg2NF19
+eyJoaXN0b3J5IjpbLTE4NjA0MDMyMjZdfQ==
 -->
