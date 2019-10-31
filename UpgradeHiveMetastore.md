@@ -34,10 +34,12 @@
 
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p28.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p28.png)
 
-6. In this section we created a copy of the SQL Metastore **aghive36db** to **aghive40db**. In the next section we would upgrade the copied metastore **aghive40db**.
+6. On the HDInsight cluster click on **Script Actions**.
 
-Next-> 
+7. 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc5ODA5MzY4LDE2MzMwNzQ5MzcsLTE5OD
-QxNzU3NTMsMjA0MDI5NzYyMl19
+eyJoaXN0b3J5IjpbLTkxNjQ3MjUxOCwxNjMzMDc0OTM3LC0xOT
+g0MTc1NzUzLDIwNDAyOTc2MjJdfQ==
 -->
