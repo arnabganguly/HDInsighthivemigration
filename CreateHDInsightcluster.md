@@ -1,9 +1,9 @@
-## ## Provision HDInsight Hadoop 3.6 cluster with Azure Management Portal
+## ## Provision HDInsight Hadoop 3.6(Hive 2.1.0) cluster from Azure Management Portal
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcyMTQ2MzI5XX0=
+eyJoaXN0b3J5IjpbMTE0NzMzNDQ0Nyw3NzIxNDYzMjldfQ==
 -->
