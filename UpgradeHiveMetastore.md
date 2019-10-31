@@ -25,14 +25,17 @@
   - Target Server: Choose SQL server create earlier
   - Elastic Pool: *None*
   - Pricing Tier: Same tier as older metastore db 
- Click Ok to continue with creation of a copy
+ 
+ Click **OK** to continue with creation of a copy
 
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p27.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p27.png)
  
-5. 
+5. After creation for the SQL DB it appears as an addtional database in the same SQL Server.
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMzA3NDkzNywtMTk4NDE3NTc1MywyMD
-QwMjk3NjIyXX0=
+eyJoaXN0b3J5IjpbMTY3MzI2NzU4NiwxNjMzMDc0OTM3LC0xOT
+g0MTc1NzUzLDIwNDAyOTc2MjJdfQ==
 -->
