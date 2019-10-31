@@ -2,9 +2,11 @@
 
 ## Create a Storage account 
 
+1. Create storage account and click create
 
+[https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p1.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p1.png)
 
-Populate the  **Basics**  tab of Storage account with the below information.
+2. Populate the  **Basics**  tab of Storage account with the below information.
 
 -   **Resource group**:  _Create or use an existing resource group_
 -   **Storage account name**:  _Enter a unique name for your storage account_
@@ -14,5 +16,5 @@ Populate the  **Basics**  tab of Storage account with the below information.
 -   **Replication**:  _Locally-redundant storage(LRS)_
 -   **Access Tier**:  _Hot_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYzMDQ0MTY0XX0=
+eyJoaXN0b3J5IjpbNzQxOTA4Nzc3XX0=
 -->
