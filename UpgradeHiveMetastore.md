@@ -42,7 +42,10 @@
     - Script Type: Custom 
     - Name: Enter a new for the script
     - Bash Script URI: ```https://hdiconfigactions.blob.core.windows.net/hivemetastoreschemaupgrade/launch-schema-upgrade.sh```
-    - 
+    - Node type(s): Head
+    - Parameters:
+       ``` SQLservername SQLdbname SQLServerusername SQLServerpassword ```
+       Note : 
 
  
 
@@ -50,6 +53,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzkyNTI0ODIsMTYzMzA3NDkzNywtMT
-k4NDE3NTc1MywyMDQwMjk3NjIyXX0=
+eyJoaXN0b3J5IjpbMTYwMjM5NjAxLDE2MzMwNzQ5MzcsLTE5OD
+QxNzU3NTMsMjA0MDI5NzYyMl19
 -->
