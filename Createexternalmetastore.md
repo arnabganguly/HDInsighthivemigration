@@ -21,14 +21,16 @@
 
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p7.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p7.png)
 
-3. In the Database Configuration page select the *Standard* Tier with the below settings and click *Apply* 
+ - In the Database Configuration page select the *Standard* Tier with the below settings and click *Apply* 
     - DTU: 200
     - Data Max Size : A few GBs
  
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p8.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p8.png)
 
-4. 
+4. In the Networking tab ensure the following settings are met
+
+ - List item
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzM3MDUzNTYsMTA0NTEzOTczNV19
+eyJoaXN0b3J5IjpbLTE2Mjc2NDMzNjIsMTA0NTEzOTczNV19
 -->
