@@ -36,11 +36,11 @@
 
 ### Upgrade the Hive 2.1.1 Metastore 
 
-6. On the HDInsight cluster click on **Script Actions**.
+1. On the HDInsight cluster click on **Script Actions**.
 
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p31.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p31.png)
 
- 7. On the Script action page populated the parameters as described below and click **Create**
+ 2. On the Script action page populated the parameters as described below and click **Create**
     - Script Type: Custom 
     - Name: Enter a new for the script
     - Bash Script URI: ```https://hdiconfigactions.blob.core.windows.net/hivemetastoreschemaupgrade/launch-schema-upgrade.sh```
@@ -53,11 +53,11 @@
 
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p32.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p32.png)
 
-8. The script action starts on the cluster
+3. The script action starts on the cluster
 
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p33.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p33.png)
 
-9. The script comes back with a green check mark which indicates successful completion. 
+4. The script comes back with a green check mark which indicates successful completion. 
 
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p34.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p34.png)
 
@@ -65,11 +65,11 @@
 
 After the script finishes , we would need to validate if the Hive Metastore is indeed upgraded
 
-1.  
+1. Launch the new SQL db portal( aghive40db) and click on **Query Editor**. You could alternatvyl u  
  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4ODM4MTM5MCwxNjMzMDc0OTM3LC0xOT
+eyJoaXN0b3J5IjpbLTY2NDI1MTI1NywxNjMzMDc0OTM3LC0xOT
 g0MTc1NzUzLDIwNDAyOTc2MjJdfQ==
 -->
