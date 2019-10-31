@@ -7,14 +7,20 @@
 
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p24.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p24.png)
 
+2. Click on the Metastore to open the SQL DB portal.  
+
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p25.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p25.png)
 
+3. On the SQL DB portal click on **Restore**. 
 
-2.  
+![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p26.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p26.png)
+
+4. 
+ 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODQ2OTM1NDYsLTE5ODQxNzU3NTMsMj
+eyJoaXN0b3J5IjpbLTE1NTU5OTU2ODYsLTE5ODQxNzU3NTMsMj
 A0MDI5NzYyMl19
 -->
