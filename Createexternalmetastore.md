@@ -9,7 +9,7 @@
 
  -   **Resource group**:  Use the same resource group used for storage
  -   **Database Details **:  
-         - Database Name 
+         - Database name: *Choose any allowed name for the metastore* ( I used ***aghive36db*** to represent an Hive 2.1 metastore on HdInsight 3.6 cluster type )
 
 _Enter a unique name for your storage account_
 -   **Location**:  _Enter an Azure region( HDInsight cluster needs to be created in same the Azure region)_
@@ -20,5 +20,5 @@ _Enter a unique name for your storage account_
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTQ5NTI0NjJdfQ==
+eyJoaXN0b3J5IjpbLTE2NzQ3MzE4N119
 -->
