@@ -10,7 +10,7 @@
  -   **Resource group**:  Use the same resource group used for storage
 
  -   **Database Details** :  
-         - Database name: *Choose any allowed name for the metastore* ( I used ***aghive36db*** to represent a Hive 2.1 metastore on an HDInsight 3.6 cluster type )
+           -Database name: *Choose any allowed name for the metastore* ( I used ***aghive36db*** to represent a Hive 2.1 metastore on an HDInsight 3.6 cluster type )
          - Want to use SQL Elastic Pool : N
 
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p5.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p5.png)
@@ -22,8 +22,10 @@
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p7.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p7.png)
 
  - In the Database Configuration page select the *Standard* Tier with the below settings
-    -DTU : 
+    - DTU: 200
+    - Data Max Size : 100 GB 
+ 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMzkzOTA0NCwxMDQ1MTM5NzM1XX0=
+eyJoaXN0b3J5IjpbLTEyMjY4NDE2NzQsMTA0NTEzOTczNV19
 -->
