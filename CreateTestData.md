@@ -32,8 +32,17 @@ beeline -u "jdbc:hive2://`hostname -f`:10001/;transportMode=http" -n "" -p "" -i
 5. Generate ORC tables and analyze
 
 ```
+beeline -u "jdbc:hive2://`hostname -f`:10001/;transportMode=http" -n "" -p "" -i settings.hql -f ddl/createAllORCTables.hql -hiveconf ORCDBNAME=tpcds_orc -hiveconf SOURCE=tpcds
+beeline -u "jdbc:hive2://`hostname -f`:10001/;transportMode=http" -n "" -p "" -i settings.hql -f ddl/analyze.hql -hiveconf ORCDBNAME=tpcds_orc
+```
+6. Run a few queries to represent a production workload
 
+```
+beeline -u "jdbc:hive2://`hostname -f`:10001/tpcds_orc;transportMode=http" -n "" -p "" -i settings.hql -f queries/query12.sql
+```
+
+7. The 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NzgyMTMyNCwtMjAwMDAzNTUyNywtMT
+eyJoaXN0b3J5IjpbLTk4Njc5MDE5NSwtMjAwMDAzNTUyNywtMT
 M1ODIxNjk1Nyw3MzA5OTgxMTZdfQ==
 -->
