@@ -22,7 +22,7 @@
  - Restore Point: 
     - Date: *Current date*
     -  Time: *Current time* 
-  - Target Server: Choose theolder SQL server 
+  - Target Server: Choose SQL server create earlier
   - Elastic Pool: *None*
   - Pricing Tier: Same tier as older metastore db 
  Click Ok to continue with creation of a copy
@@ -33,6 +33,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjUxNjc1OTAsLTE5ODQxNzU3NTMsMj
-A0MDI5NzYyMl19
+eyJoaXN0b3J5IjpbMTYzMzA3NDkzNywtMTk4NDE3NTc1MywyMD
+QwMjk3NjIyXX0=
 -->
