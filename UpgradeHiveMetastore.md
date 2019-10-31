@@ -22,6 +22,9 @@
  - Restore Point: 
     - Date: *Current date*
     -  Time: *Current time* 
+  - Target Server: Choose theolder SQL server 
+  - Elastic Pool: *None*
+  - Pricing Tier: Same tier as older metastore db 
  Click Ok to continue with creation of a copy
 
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p27.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p27.png)
@@ -30,6 +33,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NDM2MzIzOSwtMTk4NDE3NTc1MywyMD
-QwMjk3NjIyXX0=
+eyJoaXN0b3J5IjpbLTIwMjUxNjc1OTAsLTE5ODQxNzU3NTMsMj
+A0MDI5NzYyMl19
 -->
