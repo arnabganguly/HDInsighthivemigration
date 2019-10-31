@@ -45,10 +45,13 @@ To provision HDInsight LLAP with Azure Management Portal, perform the below step
 
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p19.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p19.png)
 
- 7. In the Configuration+Pricing tab select the node sizes for the cl
+ 7. In the *Configuration+Pricing* tab select the node sizes for the cluster. There are no hard and fast rules , but select larger nodes for faster data processing. Note that choosing nodes that are too small may result in failures. 
 
+![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p20.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p20.png)
+
+8. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMDAxNzU2OSwtMTU5NTc5MTU4MSwzOD
-AwMDIxMzEsNTYxNjU3NDIyLDcyOTczNTExNCw3NzIxNDYzMjld
-fQ==
+eyJoaXN0b3J5IjpbNzQxMDkzNjkwLC0xNTk1NzkxNTgxLDM4MD
+AwMjEzMSw1NjE2NTc0MjIsNzI5NzM1MTE0LDc3MjE0NjMyOV19
+
 -->
