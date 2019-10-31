@@ -28,7 +28,7 @@
 -   **Data Lake Storage Gen2(Hierarchical Namespace)**:  _Disabled_
 
 
-![https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture33.png](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture33.png)
+![https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture33.png](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture34.png)
 
 4. Make no changes to the Tags Tab and post validation click _Create_ on the _Review + Create_ tab to create an Azure Blob storage account.
 
@@ -39,5 +39,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk2NzU2ODI0XX0=
+eyJoaXN0b3J5IjpbNTIwOTIzMzUzXX0=
 -->
