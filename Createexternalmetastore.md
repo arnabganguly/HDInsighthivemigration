@@ -14,7 +14,7 @@
         - Server : Choose a Server Name 
                  - Server admin login: Create a username
                  - Password/Confirm Password : Enter Metastore Server password 
-                 - 
+                 - Location : Choose same location as Storage Account 
                
         - Want to use SQL Elastic Pool : N
 
@@ -55,5 +55,5 @@
 [Next->](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/CreateHDInsightcluster.md) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzgzMjI5MjEsMTA0NTEzOTczNV19
+eyJoaXN0b3J5IjpbMTc0NTAxNjAzMCwxMDQ1MTM5NzM1XX0=
 -->
