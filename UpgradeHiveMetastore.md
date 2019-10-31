@@ -34,6 +34,8 @@
 
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p28.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p28.png)
 
+### Upgrade the Hive 2.1.1 Metastore 
+
 6. On the HDInsight cluster click on **Script Actions**.
 
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p31.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p31.png)
@@ -55,15 +57,15 @@
 
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p33.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p33.png)
 
-9. The script comes back with a green check mark which indicates succesful completion. 
+9. The script comes back with a green check mark which indicates successful completion. 
 
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p34.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p34.png)
 
- 
+ 10. After the script fiishes , we would need to validate if the Hive Metastore is indeed upgraded 
  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MjY2NTk5NiwxNjMzMDc0OTM3LC0xOT
+eyJoaXN0b3J5IjpbLTcxNjc1NzE4OCwxNjMzMDc0OTM3LC0xOT
 g0MTc1NzUzLDIwNDAyOTc2MjJdfQ==
 -->
