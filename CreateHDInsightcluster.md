@@ -12,6 +12,7 @@ To provision HDInsight LLAP with Azure Management Portal, perform the below step
     
 
 -   **Cluster Name**:  _Enter the cluster name. A green tick will appear if the cluster name is available._
+- **Region**: Choose the same region as the storage account
 -   **Cluster Type**  : Cluster Type -  _Hadoop_
 -  **Version**: Hadoop 2.7.3 (HDI 3.6)
 
@@ -28,5 +29,5 @@ To provision HDInsight LLAP with Azure Management Portal, perform the below step
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTg0MTM2NzAsNzcyMTQ2MzI5XX0=
+eyJoaXN0b3J5IjpbLTE0NzcxNTQ4Niw3NzIxNDYzMjldfQ==
 -->
