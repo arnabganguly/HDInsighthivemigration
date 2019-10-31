@@ -40,6 +40,9 @@
 
  7. On the Script action page populated the parameters as described below
     - Script Type: Custom 
+    - Name: Enter a new for the script
+    - Bash Script URI: ```https://hdiconfigactions.blob.core.windows.net/hivemetastoreschemaupgrade/launch-schema-upgrade.sh```
+    - 
 
  
 
@@ -47,6 +50,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDU5Mjc2OCwxNjMzMDc0OTM3LC0xOT
-g0MTc1NzUzLDIwNDAyOTc2MjJdfQ==
+eyJoaXN0b3J5IjpbLTE0NzkyNTI0ODIsMTYzMzA3NDkzNywtMT
+k4NDE3NTc1MywyMDQwMjk3NjIyXX0=
 -->
