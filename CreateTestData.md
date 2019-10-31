@@ -45,8 +45,8 @@ beeline -u "jdbc:hive2://`hostname -f`:10001/tpcds_orc;transportMode=http" -n ""
 
 8. In the next section we would upgrade the Hive Metastore from 2.1.1. to 3.1. 
 
-Next--> 
+[Next-->](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/UpgradeHiveMetastore.md) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NDU0OTE5LC0yMDAwMDM1NTI3LC0xMz
-U4MjE2OTU3LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTEyNDM2MzY3NTksLTIwMDAwMzU1MjcsLT
+EzNTgyMTY5NTcsNzMwOTk4MTE2XX0=
 -->
