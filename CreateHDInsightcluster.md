@@ -10,7 +10,7 @@ To provision HDInsight LLAP with Azure Management Portal, perform the below step
     
 4.  In the  **Basics**  tab populate the following values.
     
-
+-   **Resource Group**:_Put the cluster in the same resource group as the Storage account and Metastore_
 -   **Cluster Name**:  _Enter the cluster name. A green tick will appear if the cluster name is available._
 - **Region**: Choose the same region as the storage account
 -   **Cluster Type**  : Cluster Type -  _Hadoop_
@@ -23,11 +23,9 @@ To provision HDInsight LLAP with Azure Management Portal, perform the below step
 -   **Cluster login username**:Enter username for cluster administrator(default:admin)
 -   **Cluster login password**:_Enter password for cluster login(default:sshuser)_
 -   _Check the box for Use cluster login password for SSH_
--   **Resource Group**:_Put the cluster in the same resource group as the Storage account and MI._
--   **Location**:  _Use the same Azure Region as the Storage account_
 
 
-
+![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p14.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p14.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzcxNTQ4Niw3NzIxNDYzMjldfQ==
+eyJoaXN0b3J5IjpbLTE0NTY2NDQ2ODYsNzcyMTQ2MzI5XX0=
 -->
