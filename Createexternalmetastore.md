@@ -17,7 +17,9 @@
 
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p6.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p6.png)
 
-**Compute+Storage** : Click on the *Configure Database* link  link 
+ - **Compute+Storage** : Click on the *Configure Database* link  to Navigate to the database configuration page 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjU4NTQ0MzYsMTA0NTEzOTczNV19
+eyJoaXN0b3J5IjpbMTgyMzM0MTM0NSwxMDQ1MTM5NzM1XX0=
 -->
