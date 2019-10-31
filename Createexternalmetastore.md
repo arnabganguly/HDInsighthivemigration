@@ -48,12 +48,13 @@
 
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p10.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p10.png) 
    
-8. In this section we created an External Hive Metastore which we will use subsequently in an HDInsight 3.6 cluster. 
+8. In this section we created an External Hive Metastore(aghive36db) which we will use subsequently in an HDInsight 3.6 cluster. 
 
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p11.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p11.png)
 
 [Next->](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/CreateHDInsightcluster.md) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjcxMDQxNDAsMTA0NTEzOTczNV19
+eyJoaXN0b3J5IjpbLTQxODc3NDYyNiwtMTAyNzEwNDE0MCwxMD
+Q1MTM5NzM1XX0=
 -->
