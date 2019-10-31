@@ -12,12 +12,12 @@
  -   **Database Details** :  
          - Database name: *Choose any allowed name for the metastore* ( I used ***aghive36db*** to represent a Hive 2.1 metastore on an HDInsight 3.6 cluster type )
          - Want to use SQL Elastic Pool : N
-   
-Click on the Compute+Storage link 
 
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p5.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p5.png)
 
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p6.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p6.png)
+
+**Compute+Storage** : Click on the *Configure Database* link  link 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NTEzOTczNV19
+eyJoaXN0b3J5IjpbLTE5MjU4NTQ0MzYsMTA0NTEzOTczNV19
 -->
