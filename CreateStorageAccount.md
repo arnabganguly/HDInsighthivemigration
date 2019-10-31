@@ -36,9 +36,9 @@
 
 5. In the Next section we would create the HDInsight Hadoop 3.6 cluster.
 
-[NEXT-->]
+[\[NEXT-->\]](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/CreateHDInsightcluster.md)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk4ODM0Mjg1XX0=
+eyJoaXN0b3J5IjpbMTgwNTIzOTgxMywzOTg4MzQyODVdfQ==
 -->
