@@ -61,11 +61,15 @@
 
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p34.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p34.png)
 
- 10. After the script fiishes , we would need to validate if the Hive Metastore is indeed upgraded 
+### Validate the Hive Metastore version 
+
+After the script finishes , we would need to validate if the Hive Metastore is indeed upgraded
+
+1.  
  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNjc1NzE4OCwxNjMzMDc0OTM3LC0xOT
+eyJoaXN0b3J5IjpbMTU4ODM4MTM5MCwxNjMzMDc0OTM3LC0xOT
 g0MTc1NzUzLDIwNDAyOTc2MjJdfQ==
 -->
