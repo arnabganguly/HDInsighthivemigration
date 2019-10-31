@@ -38,8 +38,8 @@
 
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p31.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p31.png)
 
- - On the Script action page populated the parameters as described below
- - List item
+ 7. On the Script action page populated the parameters as described below
+    - Script Type: Custom 
 
  
 
@@ -47,6 +47,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3Mjg3ODc2NSwxNjMzMDc0OTM3LC0xOT
+eyJoaXN0b3J5IjpbLTExMDU5Mjc2OCwxNjMzMDc0OTM3LC0xOT
 g0MTc1NzUzLDIwNDAyOTc2MjJdfQ==
 -->
