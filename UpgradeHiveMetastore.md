@@ -15,12 +15,17 @@
 
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p26.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p26.png)
 
-4. In the restore blade choose the current date and time to get the most recent copy o
- 
+4. In the restore blade choose the below values 
+     
 
+current date and time to get the most recent copy of the Hive Metastore. Click Ok to continue with creation of a copy
+
+![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p27.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p27.png)
+ 
+5. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MTE1MzA2NSwtMTk4NDE3NTc1MywyMD
-QwMjk3NjIyXX0=
+eyJoaXN0b3J5IjpbLTU1OTUzODYsLTE5ODQxNzU3NTMsMjA0MD
+I5NzYyMl19
 -->
