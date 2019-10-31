@@ -35,8 +35,9 @@ To provision HDInsight LLAP with Azure Management Portal, perform the below step
 
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p15.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p15.png)
 
-- **Metastore Settings**: Enter a name for the storage container
+- **Metastore Settings**: Enter the name for the SQL Database/SQL Server combination that was created in the last step
+![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p17.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p17.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgwMDAyMTMxLDU2MTY1NzQyMiw3Mjk3Mz
-UxMTQsNzcyMTQ2MzI5XX0=
+eyJoaXN0b3J5IjpbLTE4OTU2NzIzNzcsMzgwMDAyMTMxLDU2MT
+Y1NzQyMiw3Mjk3MzUxMTQsNzcyMTQ2MzI5XX0=
 -->
