@@ -65,11 +65,15 @@
 
 After the script finishes , we would need to validate if the Hive Metastore is indeed upgraded
 
-1. Launch the new SQL db portal( aghive40db) and click on **Query Editor**. You could alternatvyl u  
+1. Launch the new SQL db portal(**aghive40db**) and click on **Query Editor**.You could alternatively use SSMS or Azure Data Studio. 
+
+![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p35.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p35.png)
+
+2. 
  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NDI1MTI1NywxNjMzMDc0OTM3LC0xOT
-g0MTc1NzUzLDIwNDAyOTc2MjJdfQ==
+eyJoaXN0b3J5IjpbLTEyNTQ0OTA4MDcsMTYzMzA3NDkzNywtMT
+k4NDE3NTc1MywyMDQwMjk3NjIyXX0=
 -->
