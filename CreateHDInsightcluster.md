@@ -52,8 +52,14 @@ To provision HDInsight LLAP with Azure Management Portal, perform the below step
 8. In the *Review+Create* tab , review the cluster specifics and click **Create**.
 
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p20.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p21.png) 
+
+9. In this step we created an HDInsight 3.6 Hadoop cluster with preconfigured external metastore and storage account. 
+ 
+10. In the next step we will create some test data in the cluster to represent a production workload. 
+
+NEXT->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMDkwOTg2NywtMTU5NTc5MTU4MSwzOD
+eyJoaXN0b3J5IjpbLTk5Mzk4NDg4OSwtMTU5NTc5MTU4MSwzOD
 AwMDIxMzEsNTYxNjU3NDIyLDcyOTczNTExNCw3NzIxNDYzMjld
 fQ==
 -->
