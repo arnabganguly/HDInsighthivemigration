@@ -30,9 +30,15 @@
  - In the Networking tab ensure the following settings are met
 
  - Connectivity Method : Public endpoint
- - Firewall Rules:-List item
+ - Firewall Rules:
+    - Allow Azure Services and Resources to Access this Server : Yes
+    - Add current IP address: Yes 
+
+![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p9.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p9.png)
+
+
    
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczODE4MTg4NCwxMDQ1MTM5NzM1XX0=
+eyJoaXN0b3J5IjpbNzg3MDczNzIzLDEwNDUxMzk3MzVdfQ==
 -->
