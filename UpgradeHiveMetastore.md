@@ -30,12 +30,12 @@
 
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p27.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p27.png)
  
-5. After creation for the SQL DB it appears as an addtional database in the same SQL Server.
+5. After creation for the SQL DB it appears as an additional database in the same SQL Server.
 
-
+![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p28.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p28.png)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MzI2NzU4NiwxNjMzMDc0OTM3LC0xOT
-g0MTc1NzUzLDIwNDAyOTc2MjJdfQ==
+eyJoaXN0b3J5IjpbMzgyMzEwNTEzLDE2MzMwNzQ5MzcsLTE5OD
+QxNzU3NTMsMjA0MDI5NzYyMl19
 -->
