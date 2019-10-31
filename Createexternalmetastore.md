@@ -44,8 +44,8 @@
    
 8. In this section we created an External Hive Metastore which we will use subsequently in an HDInsight 3.6 cluster. 
 
-Next-> 
+[Next->](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/CreateHDInsightcluster.md) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNjc4MzI3MywxMDQ1MTM5NzM1XX0=
+eyJoaXN0b3J5IjpbMjA2Nzg2NTQxLDEwNDUxMzk3MzVdfQ==
 -->
