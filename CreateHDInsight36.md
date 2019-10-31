@@ -4,7 +4,7 @@
 
 1. Create storage account and click create
 
-[https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p1.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p1.png)
+![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p1.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p1.png)
 
 2. Populate the  **Basics**  tab of Storage account with the below information.
 
@@ -16,5 +16,5 @@
 -   **Replication**:  _Locally-redundant storage(LRS)_
 -   **Access Tier**:  _Hot_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQxOTA4Nzc3XX0=
+eyJoaXN0b3J5IjpbMjA1NDE0ODc4OF19
 -->
