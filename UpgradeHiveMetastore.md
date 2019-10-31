@@ -38,7 +38,7 @@
 
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p31.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p31.png)
 
- 7. On the Script action page populated the parameters as described below
+ 7. On the Script action page populated the parameters as described below and click **Create**
     - Script Type: Custom 
     - Name: Enter a new for the script
     - Bash Script URI: ```https://hdiconfigactions.blob.core.windows.net/hivemetastoreschemaupgrade/launch-schema-upgrade.sh```
@@ -51,12 +51,15 @@
 
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p32.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p32.png)
 
- 
+8. The script action starts on the cluster
 
+![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p33.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p33.png)
+
+9. The script comes back wit
  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjI3NzgwOTYsMTYzMzA3NDkzNywtMT
-k4NDE3NTc1MywyMDQwMjk3NjIyXX0=
+eyJoaXN0b3J5IjpbNTYyNTczNDU5LDE2MzMwNzQ5MzcsLTE5OD
+QxNzU3NTMsMjA0MDI5NzYyMl19
 -->
