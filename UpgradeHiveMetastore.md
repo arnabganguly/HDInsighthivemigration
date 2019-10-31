@@ -69,11 +69,14 @@ After the script finishes , we would need to validate if the Hive Metastore is i
 
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p35.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p35.png)
 
-2. 
+2. Enter the below query in the query editor and click Run.
+``` Select * from [dbo].version```
+
+3. Validate to see the 
  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTQ0OTA4MDcsMTYzMzA3NDkzNywtMT
-k4NDE3NTc1MywyMDQwMjk3NjIyXX0=
+eyJoaXN0b3J5IjpbLTQwNzQzMzU4NSwxNjMzMDc0OTM3LC0xOT
+g0MTc1NzUzLDIwNDAyOTc2MjJdfQ==
 -->
