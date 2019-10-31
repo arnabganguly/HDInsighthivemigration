@@ -8,7 +8,8 @@
  - 2.  Populate the  **Basics**  tab of SQL Server  with the below information.
 
  -   **Resource group**:  Use the same resource group used for storage
- -   **Database Details **:  
+
+ -   **Database Details** :  
          - Database name: *Choose any allowed name for the metastore* ( I used ***aghive36db*** to represent a Hive 2.1 metastore on an HDInsight 3.6 cluster type )
          - Want to use SQL Elastic Pool : N 
          
@@ -23,5 +24,5 @@ _Enter a unique name for your storage account_
 
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p5.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p5.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMyMTE0MTQ2XX0=
+eyJoaXN0b3J5IjpbODk1MjU3Mzk2XX0=
 -->
