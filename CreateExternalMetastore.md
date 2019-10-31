@@ -52,8 +52,8 @@
 
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p11.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p11.png)
 
-[Next->](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/CreateHDInsight36cluster.md) 
+[Next->](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/CreateExternalMetastore.md) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3ODAyMjEzXX0=
+eyJoaXN0b3J5IjpbLTk4MzY2MjU1MV19
 -->
