@@ -42,7 +42,10 @@
 
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p10.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p10.png) 
    
+8. In this section we created an External Hive Metastore which we will use subsequently in an HDInsight 3.6 cluster. 
+
+Next-> 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ3ODQ4NTgsMTA0NTEzOTczNV19
+eyJoaXN0b3J5IjpbMTkyNjc4MzI3MywxMDQ1MTM5NzM1XX0=
 -->
