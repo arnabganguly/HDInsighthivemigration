@@ -28,12 +28,13 @@ To provision HDInsight LLAP with Azure Management Portal, perform the below step
 
 5. In the  **Storage**  tab populate the following values.
 
--   **Primary Azure Storage Type**:  _Azure Storage_
--   **Select a Storage account**: Select the Azure Blob storage account created earlier.Note that the  **container**  field is automatically populated with the name of the storage account.
+-   **Primary Storage Type**:  _Azure Storage_
+- **Selection method**: Select from list
+-   **Primary Storage account**: Select the Azure Blob storage account created earlier.Note that the  **container**  field is automatically populated with the name of the storage account.
 -   Leave  **Filesystem**  and  **Additional storage accounts**  and  **Subscription**  and  **User-assigned managed identity**  options at default state and click  _Next_
 
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p15.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p15.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU2MzM2NTA4LDU2MTY1NzQyMiw3Mjk3Mz
+eyJoaXN0b3J5IjpbNTYwNjgzMTA0LDU2MTY1NzQyMiw3Mjk3Mz
 UxMTQsNzcyMTQ2MzI5XX0=
 -->
