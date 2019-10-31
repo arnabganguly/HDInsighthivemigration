@@ -5,7 +5,7 @@
 
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p4.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p4.png)
 
- - 2.  Populate the  **Basics**  tab of SQL Server  with the below information.
+ 2.  Populate the  **Basics**  tab of SQL Server  with the below information.
 
  -   **Resource group**:  Use the same resource group used for storage
 
@@ -19,7 +19,9 @@
 
  - **Compute+Storage** : Click on the *Configure Database* link  to Navigate to the database configuration page 
 
+![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p7.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p7.png)
 
+3. In the Database Conf
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMzM0MTM0NSwxMDQ1MTM5NzM1XX0=
+eyJoaXN0b3J5IjpbLTU0NTgxOTY2NiwxMDQ1MTM5NzM1XX0=
 -->
