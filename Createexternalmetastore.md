@@ -27,10 +27,12 @@
  
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p8.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p8.png)
 
-4. In the Networking tab ensure the following settings are met
+ - In the Networking tab ensure the following settings are met
 
- - List item
+ - Connectivity Method : Public endpoint
+ - Firewall Rules:-List item
+   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mjc2NDMzNjIsMTA0NTEzOTczNV19
+eyJoaXN0b3J5IjpbMTczODE4MTg4NCwxMDQ1MTM5NzM1XX0=
 -->
