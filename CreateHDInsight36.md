@@ -20,10 +20,24 @@
 
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p1.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p1.png)
 
-3. 
+3. Populate the  **Advanced**  tab of Storage account with the below information.
+
+-   **Security(Secure transfer required)**:  _Enabled_
+-   **Virtual Network(Allow access from)**:  _All networks_
+-   **Data Protection(Blob soft delete**):  _Disabled_
+-   **Data Lake Storage Gen2(Hierarchical Namespace)**:  _Disabled_
+
+
+![https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture33.png](https://github.com/arnabganguly/llap-hdinsight/blob/master/images/Picture33.png)
+
+4. Make no changes to the Tags Tab and post validation click _Create_ on the _Review + Create_ tab to create an Azure Blob storage account.
+
+![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p2.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p2.png)
+
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1OTQ2Mjg5MF19
+eyJoaXN0b3J5IjpbODk2NzU2ODI0XX0=
 -->
