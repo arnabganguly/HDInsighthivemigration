@@ -36,9 +36,11 @@
 
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p9.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p9.png)
 
+6. Leave the *Additional settings* and *Tags* to their default state
 
+8.  In the Review+Crea
    
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNDI1OTYxMCwxMDQ1MTM5NzM1XX0=
+eyJoaXN0b3J5IjpbMTg2ODI3MTkwNywxMDQ1MTM5NzM1XX0=
 -->
