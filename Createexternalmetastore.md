@@ -11,11 +11,10 @@
 
  -   **Database Details** :  
        - Database: *Choose any allowed name for the metastore* ( I used ***aghive36db*** to represent a Hive 2.1 metastore on an HDInsight 3.6 cluster type 
-         - Server :- Click Create new 
-            - Choose a Server Name 
-                 - Server admin login: Create a username
-                 - Password/Confirm Password : Enter Metastore Server password 
-                 - Location : Choose same location as Storage Account 
+         - Server :- Click *Create new*
+            - Server admin login: Create a username
+             - Password/Confirm Password : Enter Metastore server password 
+              - Location : Choose same location as Storage Account 
                
         - Want to use SQL Elastic Pool : N
 
@@ -56,5 +55,5 @@
 [Next->](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/CreateHDInsightcluster.md) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MDczMzkxNCwxMDQ1MTM5NzM1XX0=
+eyJoaXN0b3J5IjpbLTE0NjM1MDUwNjEsMTA0NTEzOTczNV19
 -->
