@@ -1,4 +1,3 @@
-
 ## Create TPCDS test data on the HDInsight 3.6 Hadoop cluster with Beeline CLI
 
 Goal of this step is to help generate TPCDS data with hive as a close representation of production data. 
@@ -17,7 +16,8 @@ hdfs dfs -copyFromLocal resources /tmp
 beeline -u "jdbc:hive2://`hostname -f`:10001/;transportMode=http" -n "" -p "" -i settings.hql -f TPCDSDataGen.hql -hiveconf SCALE=1 -hiveconf PARTS=1 -hiveconf LOCATION=/HiveTPCDS/ -hiveconf TPCHBIN=`grep -A 1 "fs.defaultFS" /etc/hadoop/conf/core-site.xml | grep -o "wasb[^<]*"`/tmp/resources
 ```
 
-
+4. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTgyMTY5NTcsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTIwMDAwMzU1MjcsLTEzNTgyMTY5NTcsNz
+MwOTk4MTE2XX0=
 -->
