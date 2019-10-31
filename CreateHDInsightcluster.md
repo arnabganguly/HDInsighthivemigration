@@ -1,7 +1,9 @@
+## ## Provision HDInsight Hadoop 3.6 cluster with Azure Management Portal
 
 
 
-> Written with [StackEdit](https://stackedit.io/).
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbNzcyMTQ2MzI5XX0=
 -->
