@@ -12,11 +12,12 @@ git clone https://github.com/hdinsight/tpcds-hdinsight && cd tpcds-hdinsight
 ```
 hdfs dfs -copyFromLocal resources /tmp
 ```
-3. Run TPCDSDataGen.hql with settings.hql file and set the required config variables.
+3. Run TPCDSDataGen.hql with settings.hql file and set the required config variables.( 1 GB of data)
 ```
 beeline -u "jdbc:hive2://`hostname -f`:10001/;transportMode=http" -n "" -p "" -i settings.hql -f TPCDSDataGen.hql -hiveconf SCALE=1 -hiveconf PARTS=1 -hiveconf LOCATION=/HiveTPCDS/ -hiveconf TPCHBIN=`grep -A 1 "fs.defaultFS" /etc/hadoop/conf/core-site.xml | grep -o "wasb[^<]*"`/tmp/resources
+```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyODU5NDYzMSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTEzNTgyMTY5NTcsNzMwOTk4MTE2XX0=
 -->
