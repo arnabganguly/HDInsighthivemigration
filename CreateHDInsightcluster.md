@@ -25,7 +25,13 @@ To provision HDInsight LLAP with Azure Management Portal, perform the below step
 - **Use cluster login for SSH**: *Check this box(this makes your SSH password same as the cluster admin password)*
 
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p14.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p14.png)
+
+5. 5.  In the  **Storage**  blade populate the following values.
+
+-   **Primary Azure Storage Type**:  _Azure Storage_
+-   **Select a Storage account**: Select the Azure Blob storage account created earlier.Note that the  **container**  field is automatically populated with the name of the storage account.
+-   Leave  **Filesystem**  and  **Additional storage accounts**  and  **Subscription**  and  **User-assigned managed identity**  options at default state and click  _Next_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYxNjU3NDIyLDcyOTczNTExNCw3NzIxND
-YzMjldfQ==
+eyJoaXN0b3J5IjpbLTE5NzY0NDUwMTgsNTYxNjU3NDIyLDcyOT
+czNTExNCw3NzIxNDYzMjldfQ==
 -->
