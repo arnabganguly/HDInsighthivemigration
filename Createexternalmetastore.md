@@ -21,18 +21,18 @@
 
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p7.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p7.png)
 
- - In the Database Configuration page select the *Standard* Tier with the below settings and click *Apply* 
+4. In the Database Configuration page select the *Standard* Tier with the below settings and click *Apply* 
     - DTU: 200
     - Data Max Size : A few GBs
  
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p8.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p8.png)
 
- - In the Networking tab ensure the following settings are met
+ 5. In the Networking tab ensure the following settings are met
 
  - Connectivity Method : Public endpoint
  - Firewall Rules:
-    - Allow Azure Services and Resources to Access this Server : Yes
-    - Add current IP address: Yes 
+    - *Allow Azure Services and Resources to Access this Server* : Yes
+    - *Add current IP address*: Yes 
 
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p9.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p9.png)
 
@@ -40,5 +40,5 @@
    
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg3MDczNzIzLDEwNDUxMzk3MzVdfQ==
+eyJoaXN0b3J5IjpbLTYzNDI1OTYxMCwxMDQ1MTM5NzM1XX0=
 -->
