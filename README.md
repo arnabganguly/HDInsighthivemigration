@@ -41,12 +41,12 @@ This lab is a simulation of a real migration and will consist of the following s
 7. Run the same TPCDS tests to ensure everything is working as intended. 
 
 
-To start the lab click here. 
+To start the lab click [NEXT->](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/CreateStorageAccount.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMjA3MjY3NCw5NTEwNTgxMTcsLTEwND
-M3MjQxMTgsLTEyNTcyMTUyOTksMTY0NTc1NzQ2LDEwMTA1NjUw
-NzQsLTE4MTI5NTc5NTcsLTc3MzU0NTU0NCwxNDA0NzU3NzY5LC
-0yMDk0OTIxODMwLC03ODkzOTg1NCwtMTk5MzYxMjAxOSw5MTg2
-NzAxMTIsLTE4NjY1NTYwMjAsLTEwODUxODY3MTYsLTIzMzAxMT
-g2LC0xMzg4Mjg1MTQzXX0=
+eyJoaXN0b3J5IjpbLTE1ODE5NTI4ODgsMTMyMjA3MjY3NCw5NT
+EwNTgxMTcsLTEwNDM3MjQxMTgsLTEyNTcyMTUyOTksMTY0NTc1
+NzQ2LDEwMTA1NjUwNzQsLTE4MTI5NTc5NTcsLTc3MzU0NTU0NC
+wxNDA0NzU3NzY5LC0yMDk0OTIxODMwLC03ODkzOTg1NCwtMTk5
+MzYxMjAxOSw5MTg2NzAxMTIsLTE4NjY1NTYwMjAsLTEwODUxOD
+Y3MTYsLTIzMzAxMTg2LC0xMzg4Mjg1MTQzXX0=
 -->
