@@ -9,7 +9,9 @@
 
  -   **Resource group**:  Use the same resource group used for storage
  -   **Database Details **:  
-         - Database name: *Choose any allowed name for the metastore* ( I used ***aghive36db*** to represent an Hive 2.1 metastore on HdInsight 3.6 cluster type )
+         - Database name: *Choose any allowed name for the metastore* ( I used ***aghive36db*** to represent a Hive 2.1 metastore on an HDInsight 3.6 cluster type )
+         - Want to use SQL Elastic Pool : N 
+         
 
 _Enter a unique name for your storage account_
 -   **Location**:  _Enter an Azure region( HDInsight cluster needs to be created in same the Azure region)_
@@ -19,6 +21,7 @@ _Enter a unique name for your storage account_
 -   **Access Tier**:  _Hot_
 
 
+![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p5.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p5.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzQ3MzE4N119
+eyJoaXN0b3J5IjpbOTMyMTE0MTQ2XX0=
 -->
