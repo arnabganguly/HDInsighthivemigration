@@ -8,11 +8,12 @@ To provision HDInsight LLAP with Azure Management Portal, perform the below step
     
 3.  Click the  _Custom(size ,settings, apps) slider_
     
-4.  In the  **Basics**  blade populate the following values.
+4.  In the  **Basics**  tab populate the following values.
     
 
 -   **Cluster Name**:  _Enter the cluster name. A green tick will appear if the cluster name is available._
--   **Cluster Type**  : Cluster Type -  _Interactive Query_  Version-  _Interactive Query 3.1.0(HDI 4.0)_
+-   **Cluster Type**  : Cluster Type -  _Hadoop_
+-  
 -   **Cluster login username**:Enter username for cluster administrator(default:admin)
 -   **Cluster login password**:_Enter password for cluster login(default:sshuser)_
 -   _Check the box for Use cluster login password for SSH_
@@ -22,5 +23,5 @@ To provision HDInsight LLAP with Azure Management Portal, perform the below step
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NzczNTcwMCw3NzIxNDYzMjldfQ==
+eyJoaXN0b3J5IjpbLTEwMDE5OTI0ODYsNzcyMTQ2MzI5XX0=
 -->
