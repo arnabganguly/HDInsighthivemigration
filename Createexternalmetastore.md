@@ -10,9 +10,11 @@
  -   **Resource group**:  Use the same resource group used for storage
 
  -   **Database Details** :  
-           -Database name: *Choose any allowed name for the metastore* ( I used ***aghive36db*** to represent a Hive 2.1 metastore on an HDInsight 3.6 cluster type 
+       - Database: *Choose any allowed name for the metastore* ( I used ***aghive36db*** to represent a Hive 2.1 metastore on an HDInsight 3.6 cluster type 
         - Server : Choose a Server Name 
-                 -Server admi
+                 - Server admin login: Create a username
+                 - Password/Confirm Password : Enter Metastore Server password 
+                 - 
                
         - Want to use SQL Elastic Pool : N
 
@@ -53,5 +55,5 @@
 [Next->](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/CreateHDInsightcluster.md) 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI0Nzg4NDQ3LDEwNDUxMzk3MzVdfQ==
+eyJoaXN0b3J5IjpbLTIwNzgzMjI5MjEsMTA0NTEzOTczNV19
 -->
