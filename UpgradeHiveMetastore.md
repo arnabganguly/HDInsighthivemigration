@@ -55,11 +55,15 @@
 
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p33.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p33.png)
 
-9. The script comes back wit
+9. The script comes back with a green check mark which indicates succesful completion. 
+
+![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p34.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p34.png)
+
+ 
  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTYyNTczNDU5LDE2MzMwNzQ5MzcsLTE5OD
-QxNzU3NTMsMjA0MDI5NzYyMl19
+eyJoaXN0b3J5IjpbLTQ3MjY2NTk5NiwxNjMzMDc0OTM3LC0xOT
+g0MTc1NzUzLDIwNDAyOTc2MjJdfQ==
 -->
