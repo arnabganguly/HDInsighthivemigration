@@ -5,10 +5,13 @@
 
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p4.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p4.png)
 
-2. 2.  Populate the  **Basics**  tab of SQL Server  with the below information.
+ - 2.  Populate the  **Basics**  tab of SQL Server  with the below information.
 
--   **Resource group**:  _Create or use an existing resource group_
--   **Storage account name**:  _Enter a unique name for your storage account_
+ -   **Resource group**:  Use the same resource group used for storage
+ -   **Database Details **:  
+         - Database Name 
+
+_Enter a unique name for your storage account_
 -   **Location**:  _Enter an Azure region( HDInsight cluster needs to be created in same the Azure region)_
 -   **Performance**:  _Standard_
 -   **Account Kind**:  _StorageV2(general purpose v2)_
@@ -17,5 +20,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIwMjgzMTM3XX0=
+eyJoaXN0b3J5IjpbLTE1MTQ5NTI0NjJdfQ==
 -->
