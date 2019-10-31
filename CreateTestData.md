@@ -41,8 +41,12 @@ beeline -u "jdbc:hive2://`hostname -f`:10001/;transportMode=http" -n "" -p "" -i
 beeline -u "jdbc:hive2://`hostname -f`:10001/tpcds_orc;transportMode=http" -n "" -p "" -i settings.hql -f queries/query12.sql
 ```
 
-7. In this section we have created test data on the cluster and then tested a few queries 
+7. In this section we have created test data on the cluster and then tested a few queries representative of production datasets. 
+
+8. In the next section we would upgrade the Hive Metastore from 2.1.1. to 3.1. 
+
+Next--> 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NjU3MjMzLC0yMDAwMDM1NTI3LC0xMz
+eyJoaXN0b3J5IjpbMTg5NDU0OTE5LC0yMDAwMDM1NTI3LC0xMz
 U4MjE2OTU3LDczMDk5ODExNl19
 -->
