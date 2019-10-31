@@ -3,10 +3,11 @@
 
 ### Create a copy of the Hive Metastore in HDInsight 3.6
 
-
+1. 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODQxNzU3NTMsMjA0MDI5NzYyMl19
+eyJoaXN0b3J5IjpbLTQyMjkyMTAxMCwtMTk4NDE3NTc1MywyMD
+QwMjk3NjIyXX0=
 -->
