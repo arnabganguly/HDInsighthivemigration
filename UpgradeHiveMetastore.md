@@ -15,12 +15,14 @@
 
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p26.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p26.png)
 
- 4. In the restore blade choose the below values 
+ 4. In the restore blade choose the below values to get the most recent copy of the Hive Metastore 
      
  - Select Source : *Point-in-time*
- - Database name: *Assign a new db name**( I choose the name ag
-
-current date and time to get the most recent copy of the Hive Metastore. Click Ok to continue with creation of a copy
+ - Database name: *Assign a new db name**( I choose the name aghive40db)
+ - Restore Point: 
+    - Date: Current date
+    -  Time: Current time 
+ Click Ok to continue with creation of a copy
 
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p27.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p27.png)
  
@@ -28,6 +30,6 @@ current date and time to get the most recent copy of the Hive Metastore. Click O
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkxNTMwNDQwLC0xOTg0MTc1NzUzLDIwND
-AyOTc2MjJdfQ==
+eyJoaXN0b3J5IjpbMTgxMjA1MTAxMywtMTk4NDE3NTc1MywyMD
+QwMjk3NjIyXX0=
 -->
