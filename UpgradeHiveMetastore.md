@@ -44,8 +44,12 @@
     - Bash Script URI: ```https://hdiconfigactions.blob.core.windows.net/hivemetastoreschemaupgrade/launch-schema-upgrade.sh```
     - Node type(s): Head
     - Parameters:
-       ``` SQLservername SQLdbname SQLServerusername SQLServerpassword ```
-       Note : 
+       ``` SQLservername NEWSQLdbname SQLServerusername SQLServerpassword ```
+       Note : Use single space with no commas or semicolons
+       Example:
+       ``` agclusterdbserver aghive40db username password```
+
+![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p32.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p32.png)
 
  
 
@@ -53,6 +57,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwMjM5NjAxLDE2MzMwNzQ5MzcsLTE5OD
-QxNzU3NTMsMjA0MDI5NzYyMl19
+eyJoaXN0b3J5IjpbLTExMjI3NzgwOTYsMTYzMzA3NDkzNywtMT
+k4NDE3NTc1MywyMDQwMjk3NjIyXX0=
 -->
