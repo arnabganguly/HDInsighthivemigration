@@ -19,10 +19,11 @@ To provision HDInsight LLAP with Azure Management Portal, perform the below step
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p13.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p13.png)
 
 -   **Cluster login username**:Enter username for cluster administrator(default:admin)
--   **Cluster login password**:_Enter password for cluster login(default:sshuser)_
--   **Confirm Cluster login password**:_
+-   **Cluster login password**:_Enter password for cluster login(admin)_
+-   **Confirm Cluster login password**:_Repeat the same password as used earlier_
+- **Secure Shell(SSH) username**:_Enter the SSH username for the cluster(
 
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p14.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p14.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4ODMwMTM5NCw3NzIxNDYzMjldfQ==
+eyJoaXN0b3J5IjpbLTE2MjIxMDE2OTUsNzcyMTQ2MzI5XX0=
 -->
