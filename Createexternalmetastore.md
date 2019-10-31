@@ -38,9 +38,11 @@
 
 6. Leave the *Additional settings* and *Tags* to their default state
 
-8.  In the Review+Crea
+7.  In the *Review+Create* tab click *Create*
+
+![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p10.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p10.png) 
    
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2ODI3MTkwNywxMDQ1MTM5NzM1XX0=
+eyJoaXN0b3J5IjpbMzQ3ODQ4NTgsMTA0NTEzOTczNV19
 -->
