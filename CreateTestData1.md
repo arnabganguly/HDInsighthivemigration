@@ -3,40 +3,9 @@
 
 Goal of this step is to run TPCDS tests with an upgraded Hive Metastore to represent regression tests of production data. 
 
-1. Clone this repo
-```
-git clone https://github.com/hdinsight/tpcds-hdinsight && cd tpcds-hdinsight 
-```
-2. Upload the resources to DFS
+1. The TPCDS repo should already be cloned and data should already exist from what we created earlier. 
 
-```
-hdfs dfs -copyFromLocal resources /tmp
-```
-3. Run TPCDSDataGen.hql with settings.hql file and set the required config variables.( 1 GB of data)
-```
-beeline -u "jdbc:hive2://`hostname -f`:10001/;transportMode=http" -n "" -p "" -i settings.hql -f TPCDSDataGen.hql -hiveconf SCALE=1 -hiveconf PARTS=1 -hiveconf LOCATION=/HiveTPCDS/ -hiveconf TPCHBIN=`grep -A 1 "fs.defaultFS" /etc/hadoop/conf/core-site.xml | grep -o "wasb[^<]*"`/tmp/resources
-```
-`SCALE`  is a scale factor for TPCDS. Scale factor 10 roughly generates 10 GB data, Scale factor 1000 generates 1 TB of data and so on.
-
-`PARTS`  is a number of task to use for datagen (parrellelization). This should be set to the same value as  `SCALE`.
-
-`LOCATION`  is the directory where the data will be stored on HDFS.
-
-`TPCHBIN`  is where the resources are found. You can specify specific settings in settings.hql file.
-
-
-4. Create tables on the generated data.
-
-```
-beeline -u "jdbc:hive2://`hostname -f`:10001/;transportMode=http" -n "" -p "" -i settings.hql -f ddl/createAllExternalTables.hql -hiveconf LOCATION=/HiveTPCDS/ -hiveconf DBNAME=tpcds
-```
-5. Generate ORC tables and analyze
-
-```
-beeline -u "jdbc:hive2://`hostname -f`:10001/;transportMode=http" -n "" -p "" -i settings.hql -f ddl/createAllORCTables.hql -hiveconf ORCDBNAME=tpcds_orc -hiveconf SOURCE=tpcds
-beeline -u "jdbc:hive2://`hostname -f`:10001/;transportMode=http" -n "" -p "" -i settings.hql -f ddl/analyze.hql -hiveconf ORCDBNAME=tpcds_orc
-```
-6. Run a few queries to represent a production workload. Change the query number in the end to test various queries. 
+2. Run a few TPCDS queries to represent a production regression test . Change the query number in the end to test various queries. 
 
 ```
 beeline -u "jdbc:hive2://`hostname -f`:10001/tpcds_orc;transportMode=http" -n "" -p "" -i settings.hql -f queries/query12.sql
@@ -50,5 +19,5 @@ beeline -u "jdbc:hive2://`hostname -f`:10001/tpcds_orc;transportMode=http" -n ""
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDk1MDQ1MjNdfQ==
+eyJoaXN0b3J5IjpbLTE3MzMxNzQ5M119
 -->
