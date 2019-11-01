@@ -1,7 +1,7 @@
 ## Create TPCDS test data on the HDInsight 3.6 Hadoop cluster with Beeline CLI
 
 Goal of this step is to help generate TPCDS data with hive as a close representation of production data. 
-
+<br />
 1. Clone this repo
 ```
 git clone https://github.com/hdinsight/tpcds-hdinsight && cd tpcds-hdinsight 
@@ -44,9 +44,9 @@ beeline -u "jdbc:hive2://`hostname -f`:10001/tpcds_orc;transportMode=http" -n ""
 7. In this section we have created test data on the cluster and then tested a few queries representative of production datasets. 
 
 8. In the next section we would upgrade the Hive Metastore from 2.1.1. to 3.1. 
-
+<br />
 [Next-->](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/UpgradeHiveMetastore.md) 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDM2MzY3NTksLTIwMDAwMzU1MjcsLT
-EzNTgyMTY5NTcsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTY5Njk3MTc2NywtMTI0MzYzNjc1OSwtMj
+AwMDAzNTUyNywtMTM1ODIxNjk1Nyw3MzA5OTgxMTZdfQ==
 -->
