@@ -11,13 +11,13 @@ Goal of this step is to run TPCDS tests with an upgraded Hive Metastore to repre
 beeline -u "jdbc:hive2://`hostname -f`:10001/tpcds_orc;transportMode=http" -n "" -p "" -i settings.hql -f queries/query12.sql
 ```
 
-7. In this section we have created test data on the cluster and then tested a few queries representative of production datasets. 
+7. In this section we have ran the same TPCDS tests on an upgraded HDInsight 4.0 cluster with a Hive 3.1 Metastore  ,representative of production regression test. 
 
-8. In the next section we would upgrade the Hive Metastore from 2.1.1. to 3.1. 
+8. In this lab we uppgraded a HDInsight 3.6 Hadoop cluster to HDIsnight 4.0 Hadoop cluster 
 
 [Next-->](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/UpgradeHiveMetastore.md) 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzMxNzQ5M119
+eyJoaXN0b3J5IjpbMTQ4ODA2MzgyOV19
 -->
