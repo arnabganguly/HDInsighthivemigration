@@ -35,19 +35,18 @@ To provision HDInsight LLAP with Azure Management Portal, perform the below step
 
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p42.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p42.png)
 
-- **Metastore Settings**: Enter the name for the new SQL Database/SQL Server combination that was upgraded in the last step 
+- **Metastore Settings**: Enter the name for the new SQL Database/SQL Server(**agclusterdbserver/aghive40db**) combination that was upgraded in the last step 
 
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p43.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p43.png)
 
-![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p18.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p18.png)
 
 6. Click Authenticate to enter the username and password for the Metastore. Enter the username and password that was set for the SQL Server in the last exercise. 
 
-![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p19.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p19.png)
+![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p44.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p44.png)
 
  7. In the *Configuration+Pricing* tab select the node sizes for the cluster. There are no hard and fast rules and the recommendation is to select larger nodes for faster data processing. Note that choosing nodes that are too small may result in failures. 
 
-![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p20.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p20.png)
+![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p45.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p45.png)
 
 8. In the *Review+Create* tab , review the cluster specifics and click **Create**.
 
@@ -62,5 +61,5 @@ To provision HDInsight LLAP with Azure Management Portal, perform the below step
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTE2ODg0MzJdfQ==
+eyJoaXN0b3J5IjpbLTEwNTc3NDk5NzVdfQ==
 -->
