@@ -31,13 +31,13 @@ To provision HDInsight LLAP with Azure Management Portal, perform the below step
 -   **Primary Storage Type**:  _Azure Storage_
 - **Selection method**: Select from list
 -   **Primary Storage account**: Select the Azure storage blob account created earlier.
-- **Container**: Enter a name for the storage container
+- **Container**: Enter the same storage container that was used for the previous HDInsight 3.6 cluster
 
-![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p15.png)
+![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p42.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p42.png)
 
-- **Metastore Settings**: Enter the name for the SQL Database/SQL Server combination that was created in the last step 
+- **Metastore Settings**: Enter the name for the new SQL Database/SQL Server combination that was upgraded in the last step 
 
-![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p17.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p17.png)
+![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p43.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p43.png)
 
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p18.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p18.png)
 
@@ -62,5 +62,5 @@ To provision HDInsight LLAP with Azure Management Portal, perform the below step
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NTU4NTk2NF19
+eyJoaXN0b3J5IjpbLTE2OTE2ODg0MzJdfQ==
 -->
