@@ -1,7 +1,7 @@
 ## Provision HDInsight Hadoop 3.6(Hive 2.1.0) cluster from Azure Management Portal
 
 To provision HDInsight LLAP with Azure Management Portal, perform the below steps.
-
+<br />
 1.  Go to the Azure Portal portal.azure.com. Login using your azure account credentials.
     
 2.  Select  **Create a resource -> Azure HDInsight -> Create**
@@ -56,8 +56,8 @@ To provision HDInsight LLAP with Azure Management Portal, perform the below step
 9. In this step we created an HDInsight 3.6 Hadoop cluster with preconfigured external metastore and storage account. 
  
 10. In the next step we will create some test data in the cluster to represent a production workload. 
-
+<br />
 [NEXT->](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/CreateTestData.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NzAzOTk0MV19
+eyJoaXN0b3J5IjpbMTU3Mzk3MTQ5MywxOTg3MDM5OTQxXX0=
 -->
