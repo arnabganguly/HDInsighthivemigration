@@ -1,4 +1,4 @@
-#  Upgrade from HDInsight 3.6 Hive(2.1.0) cluster to HDInsight 4.0 Hive(3.1.0) cluster 
+#  Migrate HDInsight 3.6 Hive(2.1.0) workload to HDInsight 4.0 Hive(3.1.0) cluster 
 
 This lab explains the steps needed to upgrade from an [HDInsight Hadoop(Hive) 3.6](https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-release-notes-archive) cluster to an [HDInsight Hadoop(Hive) 4.0](https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-version-release) cluster.
 
@@ -44,7 +44,7 @@ This lab is a simulation of a real migration and will consist of the following s
 
 To start the lab click [NEXT->](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/CreateStorageAccount.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MDkyNzMzMSw4MDExNDE1MTUsMTMyMj
+eyJoaXN0b3J5IjpbLTg4Mzc1MDQ2NSw4MDExNDE1MTUsMTMyMj
 A3MjY3NCw5NTEwNTgxMTcsLTEwNDM3MjQxMTgsLTEyNTcyMTUy
 OTksMTY0NTc1NzQ2LDEwMTA1NjUwNzQsLTE4MTI5NTc5NTcsLT
 c3MzU0NTU0NCwxNDA0NzU3NzY5LC0yMDk0OTIxODMwLC03ODkz
