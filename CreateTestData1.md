@@ -13,13 +13,11 @@ Goal of this step is to run TPCDS tests with an upgraded Hive Metastore to repre
 beeline -u "jdbc:hive2://`hostname -f`:10001/tpcds_orc;transportMode=http" -n "" -p "" -i settings.hql -f queries/query12.sql
 ```
 
-4. In this lab we migrated a HDInsight 3.6 Hive worloads to  HDIsnight 4.0. 
+4. In this lab we migrated multiple HDInsight 3.6 Hive workloads to HDInsight 4.0. 
 
-8. 
 
-[Next-->](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/UpgradeHiveMetastore.md) 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNzgxNzYxOV19
+eyJoaXN0b3J5IjpbLTE2MjQ4NjQ3Ml19
 -->
