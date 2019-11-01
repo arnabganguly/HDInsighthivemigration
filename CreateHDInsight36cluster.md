@@ -57,7 +57,8 @@ To provision HDInsight LLAP with Azure Management Portal, perform the below step
  
 10. In the next step we will create some test data in the cluster to represent a production workload. 
 <br />
+
 [NEXT->](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/CreateTestData.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3Mzk3MTQ5MywxOTg3MDM5OTQxXX0=
+eyJoaXN0b3J5IjpbMTgyNjI1NzE3MSwxOTg3MDM5OTQxXX0=
 -->
