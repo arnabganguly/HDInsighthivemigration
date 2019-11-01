@@ -16,8 +16,12 @@ beeline -u "jdbc:hive2://`hostname -f`:10001/tpcds_orc;transportMode=http" -n ""
 4. In this lab we migrated multiple HDInsight 3.6 Hive workloads to HDInsight 4.0. 
 
 
+>**Further reference:**
+> 
 
+ - [Migrate Azure HDInsight 3.6 Hive workloads to HDInsight 4.0](https://docs.microsoft.com/en-us/azure/hdinsight/interactive-query/apache-hive-migrate-workloads)
+ - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjQ4NjQ3Ml19
+eyJoaXN0b3J5IjpbMTQ3NTEwOTMyLC0xNjI0ODY0NzJdfQ==
 -->
