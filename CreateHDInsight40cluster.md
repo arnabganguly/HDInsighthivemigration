@@ -1,4 +1,4 @@
-## Provision HDInsight Hadoop 3.6(Hive 2.1.0) cluster from Azure Management Portal
+## Provision HDInsight Hadoop 4.0(Hive 3.1.0) cluster from Azure Management Portal
 
 To provision HDInsight LLAP with Azure Management Portal, perform the below steps.
 
@@ -62,5 +62,5 @@ To provision HDInsight LLAP with Azure Management Portal, perform the below step
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMzkzNjkxMV19
+eyJoaXN0b3J5IjpbLTEwNzM5MTc0NTFdfQ==
 -->
