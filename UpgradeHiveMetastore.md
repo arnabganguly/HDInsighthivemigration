@@ -80,12 +80,12 @@ After the script finishes , we would need to validate if the Hive Metastore is i
 
 5. In this section we upgraded the new Hive Metastore **aghive40db** from version 2.1.2 to 3.1.0 post which we deleted the older HDInsight cluster.  
 
-6. In the next section , we could create a new HDIsnight 4.0( Hive 3.1) cluster with the new Hive Metastore and the older storage account. 
+6. In the next section , we would create a new HDInsight 4.0( Hive 3.1) cluster with the new Hive Metastore and the older storage account. 
 
  
 [Next->](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/CreateHDInsight40cluster.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTE3MzE5MjAsLTQwNzQzMzU4NSwxNj
-MzMDc0OTM3LC0xOTg0MTc1NzUzLDIwNDAyOTc2MjJdfQ==
+eyJoaXN0b3J5IjpbLTc4NzMxMTU5MCwtNDA3NDMzNTg1LDE2Mz
+MwNzQ5MzcsLTE5ODQxNzU3NTMsMjA0MDI5NzYyMl19
 -->
