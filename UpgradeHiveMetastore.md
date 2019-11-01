@@ -72,13 +72,13 @@ After the script finishes , we would need to validate if the Hive Metastore is i
 2. Enter the below query in the query editor and click Run.
 ``` Select * from [dbo].version```
 
-3. Validate to see the if the schema version was upgraded to 3.1.0 . 
+3. Validate to see the if the schema version was upgraded to 3.1.0 . This would indicate that the Hive metastore was succesfully upgraded. 
 
-
+4. Post upgradation , delete the older HDInsight 3.6 cluster. 
  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDUyNzA3NzgsLTQwNzQzMzU4NSwxNj
+eyJoaXN0b3J5IjpbLTE2MDUwOTU3MjAsLTQwNzQzMzU4NSwxNj
 MzMDc0OTM3LC0xOTg0MTc1NzUzLDIwNDAyOTc2MjJdfQ==
 -->
