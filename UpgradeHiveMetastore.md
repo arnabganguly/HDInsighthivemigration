@@ -75,10 +75,14 @@ After the script finishes , we would need to validate if the Hive Metastore is i
 3. Validate to see the if the schema version was upgraded to 3.1.0 . This would indicate that the Hive metastore was succesfully upgraded. 
 
 4. Post upgradation , delete the older HDInsight 3.6 cluster. 
+
+![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p38.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p38.png)
+
+
  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDUwOTU3MjAsLTQwNzQzMzU4NSwxNj
+eyJoaXN0b3J5IjpbLTExMTI2NTI4NzgsLTQwNzQzMzU4NSwxNj
 MzMDc0OTM3LC0xOTg0MTc1NzUzLDIwNDAyOTc2MjJdfQ==
 -->
