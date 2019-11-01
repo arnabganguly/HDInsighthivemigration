@@ -74,6 +74,8 @@ After the script finishes , we would need to validate if the Hive Metastore is i
 
 3. Validate to see the if the schema version was upgraded to 3.1.0 . This would indicate that the Hive metastore was succesfully upgraded. 
 
+![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p37.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p37.png)
+
 4. Post up-gradation , delete the older HDInsight 3.6 cluster. 
 
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p38.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p38.png)
@@ -82,12 +84,15 @@ After the script finishes , we would need to validate if the Hive Metastore is i
 
 5. In this section we upgraded the new Hive Metastore **aghive40db** from version 2.1.2 to 3.1.0 post which we deleted the older HDInsight cluster.  
 
+
+
 6. In the next section , we would create a new HDInsight 4.0( Hive 3.1) cluster with the new Hive Metastore and the older storage account. 
 
  
 [Next->](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/CreateHDInsight40cluster.md)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU3NjU0MTQyLC00MDc0MzM1ODUsMTYzMz
-A3NDkzNywtMTk4NDE3NTc1MywyMDQwMjk3NjIyXX0=
+eyJoaXN0b3J5IjpbNDc2NTU1OTU0LDQ1NzY1NDE0MiwtNDA3ND
+MzNTg1LDE2MzMwNzQ5MzcsLTE5ODQxNzU3NTMsMjA0MDI5NzYy
+Ml19
 -->
