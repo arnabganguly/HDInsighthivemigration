@@ -40,7 +40,7 @@ To provision HDInsight LLAP with Azure Management Portal, perform the below step
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p43.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p43.png)
 
 
-6. Click Authenticate to enter the username and password for the Metastore. Enter the username and password that was set for the SQL Server in the last exercise. 
+6. Click Authenticate to enter the username and password for the Metastore. Enter the username and password that was set for the SQL Server. 
 
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p44.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p44.png)
 
@@ -50,7 +50,7 @@ To provision HDInsight LLAP with Azure Management Portal, perform the below step
 
 8. In the *Review+Create* tab , review the cluster specifics and click **Create**.
 
-![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p20.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p21.png) 
+![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p46.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p46.png) 
 
 9. In this step we created an HDInsight 3.6 Hadoop cluster with preconfigured external metastore and storage account. 
  
@@ -61,5 +61,5 @@ To provision HDInsight LLAP with Azure Management Portal, perform the below step
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTc3NDk5NzVdfQ==
+eyJoaXN0b3J5IjpbODg1Mzc1NTZdfQ==
 -->
