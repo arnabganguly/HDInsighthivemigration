@@ -72,11 +72,11 @@ After the script finishes , we would need to validate if the Hive Metastore is i
 2. Enter the below query in the query editor and click Run.
 ``` Select * from [dbo].version```
 
-3. Validate to see the 
+3. Validate to see the if the Schema version was modoe
  
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNzQzMzU4NSwxNjMzMDc0OTM3LC0xOT
-g0MTc1NzUzLDIwNDAyOTc2MjJdfQ==
+eyJoaXN0b3J5IjpbLTE2OTg2ODA1MzEsLTQwNzQzMzU4NSwxNj
+MzMDc0OTM3LC0xOTg0MTc1NzUzLDIwNDAyOTc2MjJdfQ==
 -->
