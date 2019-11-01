@@ -35,10 +35,11 @@
 ![https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p2.png](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/images/p2.png)
 
 5. In the next section we would create the external metastore for the HDInsight Hadoop 3.6 cluster.
-
+<br />
 [\[NEXT-->\]](https://github.com/arnabganguly/HDInsighthivemigration/blob/master/CreateExternalMetastore.md)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDg1OTE4MjUsMzk4ODM0Mjg1XX0=
+eyJoaXN0b3J5IjpbMTg5MTU4MjE1NiwtMTY0ODU5MTgyNSwzOT
+g4MzQyODVdfQ==
 -->
